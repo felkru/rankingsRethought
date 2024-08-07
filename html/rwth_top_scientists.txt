@@ -1,0 +1,2442 @@
+<html lang="en"><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PLXGG22"></script><script async="" src="https://www.clarity.ms/tag/ffq347geb3"></script><head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<meta name="theme-color" content="#007397">
+    <meta name="csrf-token" content="oEN9VjGNUFMdM5aM2S0wYKVR8QU4fvzWL1CcZ7Gq">
+<title>Best Computer Science Scientists in RWTH Aachen University - H-Index Ranking | Research.com</title>
+    <meta name="description" content="Discover the latest 2024 Computer Science university ranking for RWTH Aachen University">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Best Computer Science Scientists in RWTH Aachen University - H-Index Ranking | Research.com">
+<meta property="og:url" content="https://research.com/university/computer-science/rwth-aachen-university">
+<meta property="og:site_name" content="Research.com">
+    <meta property="og:description" content="Discover the latest 2024 Computer Science university ranking for RWTH Aachen University">
+<meta name="robots" content="index,follow">
+
+    <script type="application/ld+json">
+        {
+        "@context":"https:\/\/schema.org",
+        "@type":"BreadcrumbList",
+        "itemListElement":[
+        {"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https://research.com"}}
+                ,{"@type":"ListItem","position": 2,"item":{"name":"Computer Science","@id":"https://research.com/university-rankings/computer-science" } }
+                ]}
+</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","name":"RWTH Aachen University","address":{"@type":"PostalAddress","addressLocality":"Germany"},"url":"https:\/\/research.com\/university\/rwth-aachen-university"}</script>    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/images/android-chrome-192x192.png">
+
+    <link rel="canonical" href="https://research.com/university/computer-science/rwth-aachen-university">
+
+<link rel="preconnect" href="https://s.research.com" crossorigin="">
+
+<link rel="preload" href="https://s.research.com/website/10194361263/build/assets/cabin-v18-latin-regular.fb8138fe.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" href="https://s.research.com/website/10194361263/build/assets/open-sans-v20-latin-regular.a42f2ec7.woff2" as="font" type="font/woff2" crossorigin="">
+    <script>
+    window.lazySizesConfig = window.lazySizesConfig || {};
+    window.lazySizesConfig.init = false;
+</script>
+
+<link rel="modulepreload" href="https://s.research.com/website/10194361263/build/assets/common.3c5aaf0f.js"><link rel="modulepreload" href="https://s.research.com/website/10194361263/build/assets/slide.c40c5947.js"><link rel="modulepreload" href="https://s.research.com/website/10194361263/build/assets/throttle.a267e193.js"><link rel="modulepreload" href="https://s.research.com/website/10194361263/build/assets/scrollToEl.c8d0887b.js"><script type="module" src="https://s.research.com/website/10194361263/build/assets/common.3c5aaf0f.js"></script>
+    <link rel="modulepreload" href="https://s.research.com/website/10194361263/build/assets/university.1215cbe6.js"><link rel="modulepreload" href="https://s.research.com/website/10194361263/build/assets/clearSearch.e7eb45cc.js"><link rel="modulepreload" href="https://s.research.com/website/10194361263/build/assets/glide.fdb6792e.js"><link rel="modulepreload" href="https://s.research.com/website/10194361263/build/assets/rankings.7a261cb9.js"><link rel="modulepreload" href="https://s.research.com/website/10194361263/build/assets/snackbar.16e642ba.js"><link rel="modulepreload" href="https://s.research.com/website/10194361263/build/assets/throttle.a267e193.js"><link rel="modulepreload" href="https://s.research.com/website/10194361263/build/assets/formValidation.51e98b4e.js"><link rel="modulepreload" href="https://s.research.com/website/10194361263/build/assets/scrollToEl.c8d0887b.js"><script type="module" src="https://s.research.com/website/10194361263/build/assets/university.1215cbe6.js"></script><script type="module" src="https://s.research.com/website/10194361263/build/assets/rankings.7a261cb9.js"></script>    <script defer="" type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src='https://www.clarity.ms/tag/'+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, 'clarity', 'script', 'ffq347geb3');
+</script>
+<link rel="preconnect" href="https://www.googletagmanager.com" crossorigin="">
+<link rel="preconnect" href="https://www.google-analytics.com" crossorigin="">
+<script defer="" src="https://www.googletagmanager.com/gtag/js?id=G-03ESCQPCRG"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-03ESCQPCRG');
+    gtag('event', 'page_info', JSON.parse('{"type":"profile","categories":"","hub":"default","directory":"university","subdirectory":"computer-science"}'));
+</script>
+<!-- Google Tag Manager -->
+<script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PLXGG22');
+</script>
+<!-- End Google Tag Manager -->
+        <link rel="preload" as="style" href="https://s.research.com/website/10194361263/build/assets/universitysingle.54f5626e.css"><link rel="stylesheet" href="https://s.research.com/website/10194361263/build/assets/universitysingle.54f5626e.css">    </head>
+<body class="vsc-initialized">
+<!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PLXGG22" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" class="hidden">
+    <defs>
+        <symbol id="svg-arrow-down" viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+            <g>
+                <g>
+                    <polygon points="225.813,48.907 128,146.72 30.187,48.907 0,79.093 128,207.093 256,79.093 		"></polygon>
+                </g>
+            </g>
+        </symbol>
+        <symbol id="svg-facebook" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11 21"><path d="M2.9375 7.25H0.5V10.625H2.9375V20.75H7V10.625H9.925L10.25 7.25H7V5.81563C7 5.05625 7.1625 4.71875 7.89375 4.71875H10.25V0.5H7.1625C4.2375 0.5 2.9375 1.85 2.9375 4.38125V7.25Z" fill="#007397"></path></symbol>
+        <symbol id="svg-linkedin" viewBox="0 0 512 512"><path d="m475.074219 0h-438.148438c-20.394531 0-36.925781 16.53125-36.925781 36.925781v438.148438c0 20.394531 16.53125 36.925781 36.925781 36.925781h438.148438c20.394531 0 36.925781-16.53125 36.925781-36.925781v-438.148438c0-20.394531-16.53125-36.925781-36.925781-36.925781zm-293.464844 387h-62.347656v-187.574219h62.347656zm-31.171875-213.1875h-.40625c-20.921875 0-34.453125-14.402344-34.453125-32.402344 0-18.40625 13.945313-32.410156 35.273437-32.410156 21.328126 0 34.453126 14.003906 34.859376 32.410156 0 18-13.53125 32.402344-35.273438 32.402344zm255.984375 213.1875h-62.339844v-100.347656c0-25.21875-9.027343-42.417969-31.585937-42.417969-17.222656 0-27.480469 11.601563-31.988282 22.800781-1.648437 4.007813-2.050781 9.609375-2.050781 15.214844v104.75h-62.34375s.816407-169.976562 0-187.574219h62.34375v26.558594c8.285157-12.78125 23.109375-30.960937 56.1875-30.960937 41.019531 0 71.777344 26.808593 71.777344 84.421874zm0 0" fill="#007397"></path></symbol>
+        <symbol id="svg-google-scholar" viewBox="0 0 800 800"><path d="M400,621.17,35,324,400,35Z" transform="translate(0 0)"></path><path class="cls-2" d="M400,621.17,765,324,400,35Z" transform="translate(0 0)"></path><circle class="cls-3" cx="400" cy="552.08" r="212.92"></circle><path class="cls-4" d="M207.57,460.83a213,213,0,0,1,384.86,0Z"></path></symbol>
+        <symbol id="svg-x" viewBox="0 0 1000.7799 936.69011" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+            <defs id="defs1"></defs>
+            <path id="path1009" d="M 2.4400001,0 388.83,516.64001 0,936.69005 H 87.509997 L 427.93,568.93001 702.98,936.69005 h 297.7999 L 592.65,390.99001 954.56998,0 H 867.06 L 553.55,338.70001 300.24,0 Z M 131.13,64.460005 H 267.94 L 872.07,872.22001 H 735.26 Z" fill="#007397"></path>
+        </symbol>
+        <symbol id="svg-related" viewBox="0 0 21 16" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+            <path d="M 0,1 C 0,0.44772 0.44772,0 1,0 H 6 C 7.06087,0 8.0783,0.39801 8.8284,1.10649 9.5786,1.81496 10,2.77585 10,3.77778 V 16 C 9.5,15 8.2846,14 7,14 H 1 C 0.44772,14 0,13.5523 0,13 Z" fill="#007397" id="path1"></path>
+            <path d="M 21,1 C 21,0.44772 20.5523,0 20,0 H 15.6 C 14.6452,0 13.7295,0.39801 13.0544,1.10649 12.3793,1.81496 12,2.77585 12,3.77778 V 16 c 0.5,-1 1.1775,-2 3,-2 h 5 c 0.5523,0 1,-0.4477 1,-1 z" fill="#007397" id="path2"></path>
+        </symbol>
+        <symbol id="svg-arrow" width="13" height="18">
+            <path fill="#007397" fill-rule="evenodd" d="M.539 2.172L2.9-.001l9.223 8.685L2.9 17.372.539 15.2l6.95-6.516-6.95-6.512z"></path>
+        </symbol>
+    </defs>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" class="hidden">
+    <defs>
+        <symbol id="svg-location" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+            <path d="M12,0C7.802,0,4,3.403,4,7.602c0,6.243,6.377,6.903,8,16.398c1.623-9.495,8-10.155,8-16.398C20,3.403,16.199,0,12,0z M12,11
+                c-1.657,0-3-1.343-3-3s1.342-3,3-3s3,1.343,3,3S13.657,11,12,11z" fill="#007397"></path>
+        </symbol>
+        <symbol id="svg-established" width="20" height="20" viewBox="0 0 20 20">
+            <defs>
+                <filter id="t3gyraaja">
+                    <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.000000 0 0 0 0 0.450980 0 0 0 0 0.592157 0 0 0 1.000000 0"></feColorMatrix>
+                </filter>
+            </defs>
+            <g filter="url(#t3gyraaja)" transform="translate(-570.000000, -223.000000) translate(232.000000, 104.000000)">
+                <path d="M8.942 0L0 6.706h17.884L8.942 0zM.745 19.374H17.14v-1.491H.745v1.491zM2.319 16.393L5.027 16.393 5.027 8.197 2.319 8.197zM7.591 16.393L10.294 16.393 10.294 8.197 7.591 8.197zM12.86 16.393L15.565 16.393 15.565 8.197 12.86 8.197z" transform="translate(338.000000, 119.000000) translate(1.250000, 0.000000)" fill="#007397"></path>
+            </g>
+        </symbol>
+        <symbol id="svg-authors" viewBox="0 0 21 21" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+            <path class="st0" d="M20.997,18H9.003l-0.002-0.623c0-1.259,0.1-1.986,1.588-2.33c1.684-0.389,3.344-0.736,2.545-2.209
+                C10.768,8.475,12.46,6,15,6c2.491,0,4.226,2.383,1.866,6.839c-0.775,1.464,0.826,1.812,2.545,2.209C20.9,15.392,21,16.12,21,17.381
+                L20.997,18z M3.002,18h4.501c-0.021-4.906,2.246-2.772,2.246-6.676C9.749,9.817,8.766,9,7.501,9c-1.869,0-3.169,1.787-1.399,5.129
+                c0.581,1.099-0.619,1.359-1.909,1.657C3.074,16.044,3,16.591,3,17.537C3,17.537,3.002,18,3.002,18z"></path>
+        </symbol>
+        <symbol id="svg-info" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+            <path class="st0" d="M12,0C5.4,0,0,5.4,0,12s5.4,12,12,12s12-5.4,12-12S18.6,0,12,0z M10,16c0.6-1.8,1.6-3.9,1.8-4.5
+                c0.3-0.8-0.2-1.1-1.7,0.2l-0.3-0.6c1.7-1.9,5.3-2.3,4.1,0.6c-0.8,1.8-1.3,3.1-1.6,4c-0.5,1.4,0.7,0.8,1.8-0.2
+                c0.2,0.2,0.2,0.3,0.4,0.6C11.9,18.5,9.1,18.7,10,16z M14.7,7.8c-0.5,0.5-1.3,0.4-1.8,0c-0.4-0.5-0.4-1.2,0.2-1.7
+                c0.5-0.5,1.3-0.4,1.8,0C15.3,6.6,15.2,7.4,14.7,7.8z"></path>
+        </symbol>
+        <symbol id="svg-arrow" viewBox="0 0 12 7" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1611 0.310934L5.99463 4.43546L1.82819 0.310934C1.4094 -0.103645 0.732886 -0.103645 0.314094 0.310934C-0.104698 0.725513 -0.104698 1.39522 0.314094 1.8098L5.24295 6.68907C5.66175 7.10364 6.33826 7.10364 6.75705 6.68907L11.6859 1.8098C12.1047 1.39522 12.1047 0.725513 11.6859 0.310934C11.2671 -0.0930144 10.5799 -0.103645 10.1611 0.310934Z" fill="#007397"></path>
+        </symbol>
+        <symbol id="svg-trending" fill="none" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+            <path d="M30.6667 8L18 20.6667L11.3334 14L1.33337 24" stroke="#007397" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M22.6667 8H30.6667V16" stroke="#007397" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </symbol>
+        <symbol id="svg-across" fill="none" viewBox="1.67 1.67 28.67 28.67" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15.9998 29.3337C23.3636 29.3337 29.3332 23.3641 29.3332 16.0003C29.3332 8.63653 23.3636 2.66699 15.9998 2.66699C8.63604 2.66699 2.6665 8.63653 2.6665 16.0003C2.6665 23.3641 8.63604 29.3337 15.9998 29.3337Z" stroke="#007397" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M15.9998 21.3337C18.9454 21.3337 21.3332 18.9458 21.3332 16.0003C21.3332 13.0548 18.9454 10.667 15.9998 10.667C13.0543 10.667 10.6665 13.0548 10.6665 16.0003C10.6665 18.9458 13.0543 21.3337 15.9998 21.3337Z" stroke="#007397" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M6.57324 6.57324L12.2266 12.2266" stroke="#007397" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M19.7734 19.7734L25.4268 25.4268" stroke="#007397" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M19.7734 12.2266L25.4268 6.57324" stroke="#007397" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M19.7734 12.2262L24.4801 7.51953" stroke="#007397" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M6.57324 25.4268L12.2266 19.7734" stroke="#007397" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </symbol>
+        <symbol id="svg-chart" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M24 26.6663L24 13.333" stroke="#007397" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M16 26.6663L16 5.33301" stroke="#007397" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M8 26.667L8 18.667" stroke="#007397" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </symbol>
+    </defs>
+</svg>
+<header id="header" class="header header--menu">
+    <div>
+        <div class="main-container flex space-between align-center">
+            <div class="header__logo">
+                <a href="/" title="Research.com">
+                    <img src="https://s.research.com/website/10194361263/images/logo.svg" alt="Research.com Logo" width="190" height="22">
+                </a>
+            </div>
+                        <nav id="main-menu" class="header__menu" style="display: none;">
+                                    <div class="dropdown">
+                        <a href="#" class="menu-link">Most Affordable Colleges<svg><use xlink:href="#svg-arrow-down"></use></svg></a>
+                        <div class="submenu" style="display:none;">
+                            <div class="main-container">
+                                <div class="cols wrap">
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <span style="margin-bottom: 15px; display: block;">Most Affordable Colleges</span>
+                                                                                                                                        <a href="/degrees/most-affordable-online-doctorate-programs">Affordable PhD Programs</a>
+                                                                                            <a href="/degrees/most-affordable-online-masters-degrees-programs">Affordable Online Masters Programs</a>
+                                                                                            <a href="/degrees/most-affordable-online-bachelors-degrees">Affordable Online Bachelor Degree Programs</a>
+                                                                                            <a href="/education/most-affordable-online-colleges">Affordable Online Colleges</a>
+                                                                                            <a href="/universities-colleges/most-affordable-online-colleges-for-military-students">Affordable Online Colleges for Military</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <span style="margin-bottom: 15px; display: block;">Business &amp; Management</span>
+                                                                                                                                        <a href="/degrees/affordable-online-mba-programs">Affordable Online MBA Programs</a>
+                                                                                            <a href="/degrees/most-affordable-colleges-for-online-business-degree-programs">Affordable Online Business Degree</a>
+                                                                                            <a href="/degrees/most-affordable-online-accounting-degree-programs">Affordable Online Accounting Degree Programs</a>
+                                                                                            <a href="/degrees/affordable-online-masters-in-accounting">Affordable Online Master's in Accounting</a>
+                                                                                            <a href="/education/most-affordable-online-doctorate-in-organizational-leadership">Affordable Doctoral Programs in Leadership</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <span style="margin-bottom: 15px; display: block;">Technology Programs</span>
+                                                                                                                                        <a href="/degrees/most-affordable-online-computer-science-degrees-in-the-us">Affordable Online Computer Science Degree</a>
+                                                                                            <a href="/degrees/most-affordable-online-colleges-for-engineering-degrees">Affordable Online Engineering Degree</a>
+                                                                                            <a href="/degrees/most-affordable-online-masters-in-data-science-programs">Affordable Online Data Science Masters</a>
+                                                                                            <a href="/degrees/most-affordable-online-cybersecurity-degrees">Affordable Online Cyber Security Degree</a>
+                                                                                            <a href="/degrees/most-affordable-online-masters-degrees-in-library-science">Cheapest MLIS Degree Online</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <span style="margin-bottom: 15px; display: block;">Education Programs</span>
+                                                                                                                                        <a href="/degrees/most-affordable-online-education-degrees">Affordable Online Education Degree</a>
+                                                                                            <a href="/degrees/most-affordable-online-masters-degrees-in-teaching">Affordable Online Master's in Teaching</a>
+                                                                                            <a href="/degrees/most-affordable-online-elementary-education-programs">Affordable Online Elementary Education Degree</a>
+                                                                                            <a href="/universities-colleges/affordable-online-colleges-universities-for-early-childhood-education">Affordable Online Colleges for Early Childhood Education</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <span style="margin-bottom: 15px; display: block;">Healthcare Programs</span>
+                                                                                                                                        <a href="/degrees/most-affordable-masters-in-healthcare-administration">Cheapest Online MHA Programs</a>
+                                                                                            <a href="/degrees/most-affordable-mba-in-healthcare-management-programs-online">Affordable Online MBA in Healthcare Management</a>
+                                                                                            <a href="/degrees/most-affordable-healthcare-administration-degrees-online">Affordable Online Healthcare Administration Degree</a>
+                                                                                            <a href="/degrees/most-affordable-online-public-health-degrees">Affordable Online Public Health Degree</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <span style="margin-bottom: 15px; display: block;">More Affordable Online Programs</span>
+                                                                                                                                        <a href="/degrees/most-affordable-online-masters-in-speech-pathology">Affordable Online Speech Pathology Programs</a>
+                                                                                            <a href="/degrees/affordable-online-msw-programs">Affordable Online MSW Programs</a>
+                                                                                            <a href="/degrees/most-affordable-online-mfa-programs">Affordable MFA Online</a>
+                                                                                            <a href="/degrees/most-affordable-online-criminal-justice-degrees">Affordable Online Criminal Justice Degree</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <span style="margin-bottom: 15px; display: block;">Nursing programs</span>
+                                                                                                                                        <a href="/degrees/most-affordable-online-rn-to-bsn-programs">Cheapest RN to BSN Online</a>
+                                                                                            <a href="/degrees/most-affordable-online-nursing-programs">Affordable Online Nursing Programs</a>
+                                                                                            <a href="/degrees/most-affordable-online-nurse-practitioner-programs">Affordable Online Nurse Practitioner Programs</a>
+                                                                                            <a href="/degrees/most-affordable-online-fnp-programs">Affordable Online FNP Programs</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <span style="margin-bottom: 15px; display: block;">More Affordable Online Programs</span>
+                                                                                                                                        <a href="/degrees/most-affordable-psychology-degree-programs-online">Affordable Online Psychology Degree</a>
+                                                                                            <a href="/degrees/most-affordable-online-colleges-for-counseling-degrees">Affordable Online Counseling Degree</a>
+                                                                                            <a href="/degrees/most-affordable-bachelors-in-substance-abuse-counseling-online">Affordable Online Substance Abuse Counseling Degree</a>
+                                                                                            <a href="/degrees/most-affordable-online-mba-no-gmat-required">Affordable Online MBA Programs No GMAT</a>
+                                                                                            <a href="/degrees/most-affordable-online-masters-degrees-in-human-resources">Cheapest Online Master's in Human Resources</a>
+                                                                                            <a href="/degrees/most-affordable-online-executive-mba-programs">Affordable Online Executive MBA Programs</a>
+                                                                                            <a href="/degrees/most-affordable-online-bcba-programs">Cheapest BCBA Online Programs</a>
+                                                                                            <a href="/degrees/most-affordable-online-masters-in-counseling-degree-programs">Affordable Online Master's Programs in Counseling</a>
+                                                                                            <a href="/degrees/most-affordable-online-masters-degree-in-christian-counseling">Affordable Christian Counseling Degree</a>
+                                                                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="dropdown">
+                        <a href="#" class="menu-link">College Rankings<svg><use xlink:href="#svg-arrow-down"></use></svg></a>
+                        <div class="submenu" style="display:none;">
+                            <div class="main-container">
+                                <div class="cols wrap">
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <a href="/universities-colleges/list-of-best-online-colleges" class="links-section">Online Colleges</a>
+                                                                                                                                        <a href="/degrees/best-college-majors-to-pursue">Best College Majors</a>
+                                                                                            <a href="/degrees/shortest-doctoral-programs-online">Online PhD Programs</a>
+                                                                                            <a href="/degrees/highest-paying-bachelors-degrees">Highest Paying Bachelor Degrees</a>
+                                                                                            <a href="/degrees/quick-degrees-that-pay-well">Easy Degrees That Pay Well</a>
+                                                                                            <a href="/degrees/masters-degree">Masters Degree</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <a href="/degrees/computer-science-degree" class="links-section">Computer Science</a>
+                                                                                                                                        <a href="/degrees/best-online-accelerated-computer-science-degree-programs">Accelerated Online Computer Science Degree</a>
+                                                                                            <a href="/degrees/best-online-computer-science-degree-programs">Best Online Computer Science Degree</a>
+                                                                                            <a href="/degrees/best-cybersecurity-courses-online-with-certificates">Best Cyber Security Courses Online</a>
+                                                                                            <a href="/degrees/is-management-information-systems-a-good-major">MIS Degree</a>
+                                                                                            <a href="/degrees/is-computer-science-degree-worth-it">Is a Computer Science Degree Worth It?</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <a href="/degrees/what-can-you-do-with-a-psychology-degree" class="links-section">Psychology</a>
+                                                                                                                                        <a href="/degrees/forensic-psychology-degree">Forensic Psychology Degree</a>
+                                                                                            <a href="/degrees/best-online-psychology-degrees">Best Online Psychology Degree</a>
+                                                                                            <a href="/degrees/best-online-psyd-programs">Online PsyD Programs</a>
+                                                                                            <a href="/degrees/online-masters-degrees-in-psychology">Online Masters in Psychology</a>
+                                                                                            <a href="/careers/psyd-vs-phd-in-psychology">Doctorate in Psychology</a>
+                                                                                            <a href="/degrees/substance-abuse-counseling-degree">Substance Abuse Counselor Degree</a>
+                                                                                            <a href="/degrees/masters-in-educational-psychology-degree">Masters in Educational Psychology</a>
+                                                                                            <a href="/degrees/is-a-psychology-degree-worth-it">Is a Psychology Degree Worth It?</a>
+                                                                                            <a href="/degrees/criminal-psychology-degree">Criminal Psychology Degree</a>
+                                                                                            <a href="/degrees/best-accelerated-psychology-degree-programs-online">Best Accelerated Psychology Degree Online</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <a href="/degrees/nursing-degree" class="links-section">Nursing</a>
+                                                                                                                                        <a href="/degrees/best-online-lpn-programs">Best Online LPN Programs</a>
+                                                                                            <a href="/degrees/best-online-nursing-degree-programs">Best Online Nursing Programs</a>
+                                                                                            <a href="/degrees/online-lpn-to-rn-programs">LPN to RN Programs</a>
+                                                                                            <a href="/degrees/best-adn-to-msn-bridge-programs">ADN to NP Programs</a>
+                                                                                            <a href="/degrees/best-accelerated-nurse-practitioner-online-programs">Accelerated Nurse Practitioner Programs</a>
+                                                                                            <a href="/degrees/best-online-nurse-practitioner-programs">Best Online Nurse Practitioner Programs</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <a href="/degrees/business-degree" class="links-section">Business</a>
+                                                                                                                                        <a href="/degrees/what-are-the-highest-paying-business-masters-degrees">Best Business Masters Degrees</a>
+                                                                                            <a href="/degrees/best-online-bachelors-degrees-in-business-administration">Online Business Degree</a>
+                                                                                            <a href="/degrees/best-online-bachelors-degrees-in-construction-management">Best Online Construction Management Degree</a>
+                                                                                            <a href="/degrees/best-online-masters-degrees-in-finance">Online Masters in Finance</a>
+                                                                                            <a href="/degrees/best-one-year-masters-programs-online">1 Year Master's Programs Online</a>
+                                                                                            <a href="/degrees/types-of-business-masters-degrees">Types of Business Masters Degrees</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <a href="/degrees/education-degree-types" class="links-section">Education</a>
+                                                                                                                                        <a href="/degrees/online-masters-degrees-in-education">Best Online Masters in Education</a>
+                                                                                            <a href="/degrees/online-doctorate-degrees-in-education">Doctorate Degree in Education</a>
+                                                                                            <a href="/careers/best-highest-paying-masters-in-education-jobs">Master's Degree in Education</a>
+                                                                                            <a href="/degrees/online-doctorate-in-educational-leadership">Educational Leadership Doctoral Programs Online</a>
+                                                                                            <a href="/degrees/best-online-physical-education-programs">Best Online Physical Education Degree</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <a href="/degrees/social-work-degree" class="links-section">Social Work</a>
+                                                                                                                                        <a href="/degrees/best-accelerated-online-msw-programs">Accelerated MSW Programs</a>
+                                                                                            <a href="/degrees/online-bachelors-degrees-in-social-work">Best Online Social Work Degree</a>
+                                                                                            <a href="/degrees/best-online-clinical-master-of-social-work-programs">LCSW Online Programs</a>
+                                                                                            <a href="/degrees/best-online-msw-programs-no-gre-required">Online MSW Programs No GRE Required</a>
+                                                                                            <a href="/degrees/best-online-masters-degrees-in-social-work">Masters Degree in Social Work Online</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <a href="/degrees/best-online-mba-programs" class="links-section">Best Online MBA Programs</a>
+                                                                                                                                        <a href="/degrees/best-accelerated-mba-degree-programs">Best Accelerated MBA Programs</a>
+                                                                                            <a href="/degrees/cost-of-online-mba-programs">Online MBA Programs Cost</a>
+                                                                                            <a href="/degrees/best-mba-acceptance-rates">Best MBA Acceptance Rates</a>
+                                                                                            <a href="/degrees/is-getting-an-mba-hard">How Hard is it to Get an MBA</a>
+                                                                                            <a href="/degrees/mba-in-information-technology">MBA in Information Technology</a>
+                                                                                            <a href="/degrees/is-an-online-mba-worth-it">Is an Online MBA Worth It?</a>
+                                                                                            <a href="/degrees/best-accelerated-online-mba-programs">Best Accelerated MBA Programs Online</a>
+                                                                                            <a href="/degrees/best-online-executive-mba-programs">Best Online Executive MBA Programs</a>
+                                                                                            <a href="/degrees/best-easiest-online-mba-degree-programs">Easiest Online MBA Programs</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <a href="/degrees/best-online-accelerated-bachelors-degrees" class="links-section">Popular Degree Programs</a>
+                                                                                                                                        <a href="/degrees/online-ph-d-programs-with-no-dissertation">Best Doctorate Degree Online no Dissertation</a>
+                                                                                            <a href="/degrees/highest-paying-college-majors">Best Degrees That Make the Most Money</a>
+                                                                                            <a href="/degrees/best-online-certifications-that-pay-well">Best Online Certificate Programs That Pay Well</a>
+                                                                                            <a href="/degrees/online-degrees">Best Online Degree Programs</a>
+                                                                                            <a href="/degrees/accelerated-online-degree-programs-for-working-adults">Accelerated Online Degree Programs for Working Adults</a>
+                                                                                            <a href="/universities-colleges/best-self-paced-online-colleges-and-courses">Accredited Self-Paced Online Colleges?</a>
+                                                                                            <a href="/degrees/easiest-online-college-degrees-and-majors">Easiest Online Degrees That Pay Well</a>
+                                                                                            <a href="/careers/easiest-college-majors">Easiest College Majors</a>
+                                                                                            <a href="/degrees/best-paying-associate-degrees">Best Associate Degrees</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <a href="/degrees" class="links-section">Additional Degrees</a>
+                                                                                                                                        <a href="/degrees/library-science-degree">Library Science Degree</a>
+                                                                                            <a href="/degrees/supply-chain-management-degree">Supply Chain Management Degree</a>
+                                                                                            <a href="/degrees/finance-degree">Finance Degree</a>
+                                                                                            <a href="/degrees/best-online-counseling-degree-programs">Accredited Online Counseling Programs</a>
+                                                                                            <a href="/degrees/cyber-security-degree">Cyber Security Degree</a>
+                                                                                            <a href="/degrees/best-online-graphic-design-degree-programs">Best Online Graphic Design Degree</a>
+                                                                                            <a href="/degrees/history-degree">History Degree</a>
+                                                                                            <a href="/degrees/human-resources-degree">Human Resources Degree</a>
+                                                                                            <a href="/degrees/best-online-bachelors-degrees-in-nutritional-science">Best Online Nutrition Degree</a>
+                                                                                            <a href="/degrees/nutritional-science-degree">Nutrition Degree</a>
+                                                                                            <a href="/degrees/logistics-degree">Logistics Degree</a>
+                                                                                            <a href="/degrees/best-online-library-science-programs">Best Library Science Degree Online</a>
+                                                                                            <a href="/degrees/human-services-degree">Human Services Degree</a>
+                                                                                            <a href="/degrees/best-bookkeeping-certificate-programs">Bookkeeping Certification</a>
+                                                                                            <a href="/degrees/masters-in-forensic-accounting">Masters in Forensic Accounting</a>
+                                                                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="dropdown">
+                        <a href="#" class="menu-link">Career Resources<svg><use xlink:href="#svg-arrow-down"></use></svg></a>
+                        <div class="submenu" style="display:none;">
+                            <div class="main-container">
+                                <div class="cols wrap">
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <a href="/careers" class="links-section">Career Planning</a>
+                                                                                                                                        <a href="/careers/logistics-careers">Logistics Careers</a>
+                                                                                            <a href="/careers/how-to-become-a-therapist-without-a-psychology-degree">Do You Need a Psychology Degree to Be a Therapist</a>
+                                                                                            <a href="/careers/highest-paying-psychology-careers">Highest Paying Psychology Jobs</a>
+                                                                                            <a href="/careers/criminal-justice-careers">Criminal Justice Careers</a>
+                                                                                            <a href="/careers/social-worker-lcsw-msw-salary-guide-by-state">LCSW Salary by State</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <a href="/careers/fastest-paths-to-becoming-a-nurse" class="links-section">Nursing</a>
+                                                                                                                                        <a href="/universities-colleges/best-accredited-medical-billing-and-coding-schools-online-with-financial-aid">Accredited Online Medical Billing And Coding Schools</a>
+                                                                                            <a href="/degrees/become-a-medical-assistant-in-6-weeks-best-accelerated-programs">Become A Medical Assistant In 6 Weeks</a>
+                                                                                            <a href="/careers/best-states-to-work-as-a-nurse">Best States For Nurses</a>
+                                                                                            <a href="/careers/what-is-a-forensic-nurse">Forensic Nurse</a>
+                                                                                            <a href="/careers/how-much-does-nursing-school-cost">How Much Does Nursing School Cost</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <a href="/careers/business-careers" class="links-section">Business Careers</a>
+                                                                                                                                        <a href="/careers/accounting-careers">Accounting Careers</a>
+                                                                                            <a href="/careers/forensic-accountant-careers">Forensic Accounting Careers</a>
+                                                                                            <a href="/careers/business-administration-careers">Business Administration Careers</a>
+                                                                                            <a href="/careers/healthcare-administration-careers">Healthcare Administration Careers</a>
+                                                                                            <a href="/careers/business-management-careers">Business Management Careers</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <a href="/careers/psychology-careers" class="links-section">Psychology Careers</a>
+                                                                                                                                        <a href="/careers/cognitive-psychology-careers">Cognitive Psychology Careers</a>
+                                                                                            <a href="/careers/behavioral-psychology-careers">Behavioral Psychology Careers</a>
+                                                                                            <a href="/careers/organizational-psychology-careers">Organizational Psychology Careers</a>
+                                                                                            <a href="/careers/addiction-recovery-careers">Careers in Addiction Recovery</a>
+                                                                                            <a href="/careers/child-and-adolescent-psychology-careers">Child and Adolescent Psychology</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <a href="/careers/computer-science-careers" class="links-section">Computer Science Careers</a>
+                                                                                                                                        <a href="/careers/information-systems-careers">Information Systems Careers</a>
+                                                                                            <a href="/careers/software-engineering-careers">Software Engineering Career Path</a>
+                                                                                            <a href="/degrees/online-medical-coding-training-programs">Best Online Medical Coding Courses</a>
+                                                                                            <a href="/careers/library-science-careers">Library Science Careers</a>
+                                                                                            <a href="/careers/data-science-careers">Data Scientist Career Path</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <a href="/careers/education-careers" class="links-section">Careers in Education</a>
+                                                                                                                                        <a href="/careers/educational-leadership-careers">Educational Leadership Careers</a>
+                                                                                            <a href="/careers/childhood-development-careers">Child Development Careers</a>
+                                                                                            <a href="/careers/special-education-careers">Careers in Special Education</a>
+                                                                                            <a href="/careers/higher-education-careers">Careers in Higher Education</a>
+                                                                                            <a href="/careers/teaching-careers">Teaching Careers</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <a href="/careers/mba-careers" class="links-section">MBA Careers</a>
+                                                                                                                                        <a href="/careers/jobs-available-with-an-mba-in-healthcare-management">MBA in Healthcare Management Salary</a>
+                                                                                            <a href="/careers/best-mbas-that-lead-to-employment-and-high-salaries">MBA Career Paths and Salaries</a>
+                                                                                            <a href="/careers/best-jobs-for-mba-grads-in-healthcare">What Can I Do With a Business Degree in Healthcare</a>
+                                                                                            <a href="/degrees/is-it-worth-earning-an-mba-as-a-non-business-student">Is an MBA Worth It in 2024?</a>
+                                                                                            <a href="/degrees/is-an-mba-right-for-someone-without-a-business-degree">Can I Get an MBA Without a Business Degree</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <a href="/careers/counseling-careers" class="links-section">Counseling Careers</a>
+                                                                                                                                        <a href="/careers/how-to-become-a-christian-counselor">How to Become a Christian Counselor</a>
+                                                                                            <a href="/careers/mental-health-counselor">How to Become a Mental Health Counselor</a>
+                                                                                            <a href="/careers/social-work-vs-counseling">Social Work vs. Counseling</a>
+                                                                                            <a href="/careers/substance-abuse-addiction-counseling-careers">Career In Substance Abuse And Addictions Counseling</a>
+                                                                                            <a href="/careers/how-to-become-a-counselor">How to Become a Counselor</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <span style="margin-bottom: 15px; display: block;">Popular Careers</span>
+                                                                                                                                        <a href="/careers/biotechnology-careers">Biotechnology Careers</a>
+                                                                                            <a href="/careers/sustainability-careers">Sustainability Careers</a>
+                                                                                            <a href="/careers/gerontology-careers">Gerontology Careers</a>
+                                                                                            <a href="/careers/criminology-careers">Criminology Careers</a>
+                                                                                            <a href="/careers/careers-for-biology-majors-that-pay-well">Biology Careers</a>
+                                                                                            <a href="/careers/how-to-become-an-ekg-technician">EKG Technician</a>
+                                                                                            <a href="/careers/highest-paying-trade-school-jobs">Trade School Programs That Pay Well</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <a href="/careers/social-work-careers" class="links-section">Social Work Careers</a>
+                                                                                                                                        <a href="/careers/how-to-become-a-school-social-worker">How to Become a School Social Worker</a>
+                                                                                            <a href="/careers/macro-social-work-careers">Macro Social Work Careers</a>
+                                                                                            <a href="/careers/medical-social-work">How to Become a Medical Social Worker</a>
+                                                                                            <a href="/careers/how-to-become-a-social-worker">How to Become a Social Worker</a>
+                                                                                            <a href="/careers/career-path-for-social-workers">Social Worker Career Path</a>
+                                                                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="dropdown">
+                        <a href="#" class="menu-link">Colleges by State<svg><use xlink:href="#svg-arrow-down"></use></svg></a>
+                        <div class="submenu" style="display:none;">
+                            <div class="main-container">
+                                <div class="cols wrap">
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <span style="margin-bottom: 15px; display: block;">Best Business Schools</span>
+                                                                                                                                        <a href="/degrees/best-business-schools-in-texas">Business Schools in Texas</a>
+                                                                                            <a href="/degrees/best-business-schools-in-california">Business Schools in California</a>
+                                                                                            <a href="/degrees/best-business-schools-in-florida">Business Schools in Florida</a>
+                                                                                            <a href="/degrees/best-business-schools-in-georgia">Business Schools in Georgia</a>
+                                                                                            <a href="/degrees/best-business-schools-in-ohio">Business Schools in Ohio</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <span style="margin-bottom: 15px; display: block;">Best Online MBA Programs</span>
+                                                                                                                                        <a href="/degrees/best-texas-online-mba-degree-programs">Online MBA Programs in Texas</a>
+                                                                                            <a href="/degrees/best-california-online-mba-degree-programs">Online MBA Programs in California</a>
+                                                                                            <a href="/degrees/best-florida-online-mba-degree-programs">Online MBA Programs in Florida</a>
+                                                                                            <a href="/degrees/best-michigan-online-mba-degree-programs">Online MBA Programs in Michigan</a>
+                                                                                            <a href="/degrees/best-ohio-online-mba-degree-programs">Online MBA Programs in Ohio</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <span style="margin-bottom: 15px; display: block;">Best MSW Programs</span>
+                                                                                                                                        <a href="/degrees/masters-in-social-work-programs-in-texas">MSW Programs in Texas</a>
+                                                                                            <a href="/degrees/masters-in-social-work-programs-in-california">MSW Programs in California</a>
+                                                                                            <a href="/degrees/masters-in-social-work-programs-in-florida">MSW Programs in Florida</a>
+                                                                                            <a href="/degrees/masters-in-social-work-programs-in-new-york">MSW Programs in New York</a>
+                                                                                            <a href="/degrees/masters-in-social-work-programs-in-ohio">MSW Programs in Ohio</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <span style="margin-bottom: 15px; display: block;">Best Psychology Schools</span>
+                                                                                                                                        <a href="/universities-colleges/best-psychology-schools-in-texas">Psychology Schools in Texas</a>
+                                                                                            <a href="/universities-colleges/best-psychology-schools-in-california">Psychology Schools in California</a>
+                                                                                            <a href="/universities-colleges/best-psychology-schools-in-florida">Psychology Schools in Florida</a>
+                                                                                            <a href="/universities-colleges/best-psychology-schools-in-georgia">Psychology Schools in Georgia</a>
+                                                                                            <a href="/universities-colleges/best-psychology-schools-in-ohio">Psychology Schools in Ohio</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <span style="margin-bottom: 15px; display: block;">Best Online Psychology Degrees</span>
+                                                                                                                                        <a href="/degrees/best-texas-psychology-degrees-online">Online Psychology Degree in Texas</a>
+                                                                                            <a href="/degrees/best-programs-for-online-psychology-degree-in-california">Online Psychology Degree in California</a>
+                                                                                            <a href="/degrees/best-florida-psychology-degrees-online">Online Psychology Degree in Florida</a>
+                                                                                            <a href="/degrees/best-georgia-psychology-degrees-online">Online Psychology Degree in Georgia</a>
+                                                                                            <a href="/degrees/best-ohio-psychology-degrees-online">Online Psychology Degree in Ohio</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <span style="margin-bottom: 15px; display: block;">How to Become a Psychologist</span>
+                                                                                                                                        <a href="/careers/texas-psychology-licensure-requirements">How to Become a Psychologist in Texas</a>
+                                                                                            <a href="/careers/california-psychology-licensure-requirements">How to Become a Psychologist in California</a>
+                                                                                            <a href="/careers/florida-psychology-licensure-requirements">How to Become a Psychologist in Florida</a>
+                                                                                            <a href="/careers/georgia-psychology-licensure-requirements">How to Become a Psychologist in Georgia</a>
+                                                                                            <a href="/careers/ohio-psychology-licensure-requirements">How to Become a Psychologist in Ohio</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <span style="margin-bottom: 15px; display: block;">Best Nursing Schools</span>
+                                                                                                                                        <a href="/degrees/best-nursing-schools-in-texas">Nursing Schools in Texas</a>
+                                                                                            <a href="/degrees/best-nursing-schools-in-california">Nursing Schools in California</a>
+                                                                                            <a href="/degrees/best-nursing-schools-in-florida">Nursing Schools in Florida</a>
+                                                                                            <a href="/degrees/best-nursing-schools-in-georgia">Nursing Schools in Georgia</a>
+                                                                                            <a href="/degrees/best-nursing-schools-in-ohio">Nursing Schools in Ohio</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <span style="margin-bottom: 15px; display: block;">Best Online Nursing Programs</span>
+                                                                                                                                        <a href="/degrees/best-online-nursing-programs-in-texas">Online Nursing Programs in Texas</a>
+                                                                                            <a href="/degrees/best-online-nursing-programs-in-california">Online Nursing Programs in California</a>
+                                                                                            <a href="/degrees/best-online-nursing-programs-in-florida">Online Nursing Programs in Florida</a>
+                                                                                            <a href="/degrees/best-online-nursing-programs-in-georgia">Online Nursing Programs in Georgia</a>
+                                                                                            <a href="/degrees/best-online-nursing-programs-in-ohio">Online Nursing Programs in Ohio</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <span style="margin-bottom: 15px; display: block;">How to Become a Social Worker</span>
+                                                                                                                                        <a href="/careers/how-to-become-a-social-worker-in-texas">How to Become a Social Worker in Texas</a>
+                                                                                            <a href="/careers/how-to-become-a-social-worker-in-california">How to Become a Social Worker in California</a>
+                                                                                            <a href="/careers/how-to-become-a-social-worker-in-florida">How to Become a Social Worker in Florida</a>
+                                                                                            <a href="/careers/how-to-become-a-social-worker-in-new-york">How to Become a Social Worker in New York</a>
+                                                                                            <a href="/careers/how-to-become-a-social-worker-in-massachusetts">How to Become a Social Worker in Massachusetts</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <span style="margin-bottom: 15px; display: block;">Best Accounting Schools</span>
+                                                                                                                                        <a href="/degrees/accounting-schools-in-texas">Accounting Schools in Texas</a>
+                                                                                            <a href="/education/accounting-schools-in-california">Accounting Schools in California</a>
+                                                                                            <a href="/degrees/accounting-schools-in-florida">Accounting Schools in Florida</a>
+                                                                                            <a href="/degrees/accounting-schools-in-georgia">Accounting Schools in Georgia</a>
+                                                                                            <a href="/degrees/accounting-schools-in-ohio">Accounting Schools in Ohio</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <span style="margin-bottom: 15px; display: block;">Best Nurse Practitioner Programs</span>
+                                                                                                                                        <a href="/degrees/best-nurse-practitioner-programs-in-texas">Nurse Practitioner Programs in Texas</a>
+                                                                                            <a href="/degrees/best-nurse-practitioner-programs-in-california">Nurse Practitioner Programs in California</a>
+                                                                                            <a href="/degrees/best-nurse-practitioner-programs-in-florida">Nurse Practitioner Programs in Florida</a>
+                                                                                            <a href="/degrees/best-nurse-practitioner-programs-in-georgia">Nurse Practitioner Programs in Georgia</a>
+                                                                                            <a href="/degrees/best-nurse-practitioner-programs-in-ohio">Nurse Practitioner Programs in Ohio</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <span style="margin-bottom: 15px; display: block;">Best Online LPN/LVN Programs</span>
+                                                                                                                                        <a href="/degrees/best-lpn-programs-in-delaware">Online LPN Programs in Delaware</a>
+                                                                                            <a href="/degrees/best-lpn-programs-in-florida">Online LPN Programs in Florida</a>
+                                                                                            <a href="/degrees/best-lpn-programs-in-missouri">Online LPN Programs in Missouri</a>
+                                                                                            <a href="/degrees/best-lpn-programs-in-north-carolina">Online LPN Programs in NC</a>
+                                                                                            <a href="/degrees/best-lpn-programs-in-new-jersey">Online LPN Programs in New Jersey</a>
+                                                                                            <a href="/degrees/best-lpn-programs-in-new-york">Online LPN Programs in NY</a>
+                                                                                            <a href="/degrees/best-lpn-programs-in-ohio">Online LPN Programs in Ohio</a>
+                                                                                            <a href="/degrees/best-lpn-programs-in-pennsylvania">Online LPN Programs in PA</a>
+                                                                                            <a href="/degrees/best-lpn-programs-in-south-carolina">Online LPN Programs in South Carolina</a>
+                                                                                            <a href="/degrees/best-lpn-programs-in-virginia">Online LPN Programs in Virginia</a>
+                                                                                            <a href="/degrees/best-lvn-programs-in-california">Online LVN Programs in California</a>
+                                                                                            <a href="/degrees/best-lvn-programs-in-texas">Online LVN Programs in Texas</a>
+                                                                                    </div>
+                                                                            <div class="col col--3-12 col--tablet">
+                                                                                            <span style="margin-bottom: 15px; display: block;">How to Become a Counselor</span>
+                                                                                                                                        <a href="/careers/how-to-become-a-licensed-counselor-lpc-in-texas">How to Become a Counselor in Texas</a>
+                                                                                            <a href="/careers/how-to-become-a-licensed-counselor-lpc-in-california">How to Become a Counselor in California</a>
+                                                                                            <a href="/careers/how-to-become-a-licensed-counselor-lpc-in-florida">How to Become a Counselor in Florida</a>
+                                                                                            <a href="/careers/how-to-become-a-licensed-counselor-lpc-in-georgia">How to Become a Counselor in Georgia</a>
+                                                                                            <a href="/careers/how-to-become-a-licensed-counselor-lpc-in-ohio">How to Become a Counselor in Ohio</a>
+                                                                                            <a href="/careers/how-to-become-a-licensed-counselor-lpc-in-arizona">How to Become a Counselor in Arizona</a>
+                                                                                            <a href="/careers/how-to-become-a-licensed-counselor-lpc-in-colorado">How to Become a Counselor in Colorado</a>
+                                                                                            <a href="/careers/how-to-become-a-licensed-counselor-lpc-in-indiana">How to Become a Counselor in Indiana</a>
+                                                                                            <a href="/careers/how-to-become-a-licensed-counselor-lpc-in-michigan">How to Become a Counselor in Michigan</a>
+                                                                                            <a href="/careers/how-to-become-a-licensed-counselor-lpc-in-missouri">How to Become a Counselor in Missouri</a>
+                                                                                            <a href="/careers/how-to-become-a-licensed-counselor-lpc-in-nevada">How to Become a Counselor in Nevada</a>
+                                                                                            <a href="/careers/how-to-become-a-licensed-counselor-lpc-in-new-jersey">How to Become a Counselor in New Jersey</a>
+                                                                                            <a href="/careers/how-to-become-a-licensed-counselor-lpc-in-new-mexico">How to Become a Counselor in New Mexico</a>
+                                                                                            <a href="/careers/how-to-become-a-licensed-counselor-lpc-in-oregon">How to Become a Counselor in Oregon</a>
+                                                                                            <a href="/careers/how-to-become-a-licensed-counselor-lpc-in-south-carolina">How to Become a Counselor in South Carolina</a>
+                                                                                            <a href="/careers/how-to-become-a-licensed-counselor-lpc-in-utah">How to Become a Counselor in Utah</a>
+                                                                                            <a href="/careers/how-to-become-a-licensed-counselor-lpc-in-washington">How to Become a Counselor in Washington</a>
+                                                                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                                                            <div class="dropdown">
+                        <a href="#" title="Best Scholars" class="menu-link">Best Scholars<svg><use xlink:href="#svg-arrow-down"></use></svg></a>
+                        <div class="submenu" style="display:none;">
+                            <div class="main-container">
+                                                                            <span style="margin-bottom: 15px; display: block;">BEST SCIENTISTS BY DISCIPLINE</span>
+                                        <div class="cols wrap">
+                                                                                                                               <div class="col col--3-12 col--tablet">
+                                                                                                    <a href="/scientists-rankings/animal-science-and-veterinary">Animal Science and Veterinary</a>
+                                                                                                    <a href="/scientists-rankings/biology-and-biochemistry">Biology and Biochemistry</a>
+                                                                                                    <a href="/scientists-rankings/business-and-management">Business and Management</a>
+                                                                                                    <a href="/scientists-rankings/chemistry">Chemistry</a>
+                                                                                                    <a href="/scientists-rankings/computer-science">Computer Science</a>
+                                                                                                    <a href="/scientists-rankings/earth-science">Earth Science</a>
+                                                                                                    <a href="/scientists-rankings/ecology-and-evolution">Ecology and Evolution</a>
+                                                                                            </div>
+                                                                                                                                                                           <div class="col col--3-12 col--tablet">
+                                                                                                    <a href="/scientists-rankings/economics-and-finance">Economics and Finance</a>
+                                                                                                    <a href="/scientists-rankings/electronics-and-electrical-engineering">Electronics and Electrical Engineering</a>
+                                                                                                    <a href="/scientists-rankings/engineering-and-technology">Engineering and Technology</a>
+                                                                                                    <a href="/scientists-rankings/environmental-sciences">Environmental Sciences</a>
+                                                                                                    <a href="/scientists-rankings/genetics">Genetics</a>
+                                                                                                    <a href="/scientists-rankings/immunology">Immunology</a>
+                                                                                                    <a href="/scientists-rankings/law">Law</a>
+                                                                                            </div>
+                                                                                                                                                                           <div class="col col--3-12 col--tablet">
+                                                                                                    <a href="/scientists-rankings/materials-science">Materials Science</a>
+                                                                                                    <a href="/scientists-rankings/mathematics">Mathematics</a>
+                                                                                                    <a href="/scientists-rankings/mechanical-and-aerospace-engineering">Mechanical and Aerospace Engineering</a>
+                                                                                                    <a href="/scientists-rankings/medicine">Medicine</a>
+                                                                                                    <a href="/scientists-rankings/microbiology">Microbiology</a>
+                                                                                                    <a href="/scientists-rankings/molecular-biology">Molecular Biology</a>
+                                                                                                    <a href="/scientists-rankings/neuroscience">Neuroscience</a>
+                                                                                            </div>
+                                                                                                                                                                           <div class="col col--3-12 col--tablet">
+                                                                                                    <a href="/scientists-rankings/physics">Physics</a>
+                                                                                                    <a href="/scientists-rankings/plant-science-and-agronomy">Plant Science and Agronomy</a>
+                                                                                                    <a href="/scientists-rankings/political-science">Political Science</a>
+                                                                                                    <a href="/scientists-rankings/psychology">Psychology</a>
+                                                                                                    <a href="/scientists-rankings/social-sciences-and-humanities">Social Sciences and Humanities</a>
+                                                                                            </div>
+                                                                                                                            </div>
+                                                                            <span style="margin-bottom: 15px; display: block;">TOP GLOBALS</span>
+                                        <div class="cols wrap">
+                                                                                                                               <div class="col col--3-12 col--tablet">
+                                                                                                    <a href="/scientists-rankings/best-female-scientists">Best Female Scientists</a>
+                                                                                                    <a href="/scientists-rankings/best-scientists">Best Scientists</a>
+                                                                                                    <a href="/scientists-rankings/rising-stars">Rising Stars</a>
+                                                                                            </div>
+                                                                                                                            </div>
+                                                                </div>
+                        </div>
+                    </div>
+                                                    <div class="dropdown">
+                        <a href="#" title="Best Universities" class="menu-link">Best Universities<svg><use xlink:href="#svg-arrow-down"></use></svg></a>
+                        <div class="submenu" style="display:none;">
+                            <div class="main-container">
+                                                                    <span style="margin-bottom: 15px; display: block;">BEST UNIVERSITIES BY DISCIPLINE</span>
+                                    <div class="cols wrap">
+                                                                                                                                    <div class="col col--3-12 col--tablet">
+                                                                                                            <a href="/university-rankings/animal-science-and-veterinary">Animal Science and Veterinary</a>
+                                                                                                            <a href="/university-rankings/biology-and-biochemistry">Biology and Biochemistry</a>
+                                                                                                            <a href="/university-rankings/business-and-management">Business and Management</a>
+                                                                                                            <a href="/university-rankings/chemistry">Chemistry</a>
+                                                                                                            <a href="/university-rankings/computer-science">Computer Science</a>
+                                                                                                            <a href="/university-rankings/earth-science">Earth Science</a>
+                                                                                                            <a href="/university-rankings/ecology-and-evolution">Ecology and Evolution</a>
+                                                                                                    </div>
+                                                                                                                                                                                <div class="col col--3-12 col--tablet">
+                                                                                                            <a href="/university-rankings/economics-and-finance">Economics and Finance</a>
+                                                                                                            <a href="/university-rankings/electronics-and-electrical-engineering">Electronics and Electrical Engineering</a>
+                                                                                                            <a href="/university-rankings/engineering-and-technology">Engineering and Technology</a>
+                                                                                                            <a href="/university-rankings/environmental-sciences">Environmental Sciences</a>
+                                                                                                            <a href="/university-rankings/genetics">Genetics</a>
+                                                                                                            <a href="/university-rankings/immunology">Immunology</a>
+                                                                                                            <a href="/university-rankings/law">Law</a>
+                                                                                                    </div>
+                                                                                                                                                                                <div class="col col--3-12 col--tablet">
+                                                                                                            <a href="/university-rankings/materials-science">Materials Science</a>
+                                                                                                            <a href="/university-rankings/mathematics">Mathematics</a>
+                                                                                                            <a href="/university-rankings/mechanical-and-aerospace-engineering">Mechanical and Aerospace Engineering</a>
+                                                                                                            <a href="/university-rankings/medicine">Medicine</a>
+                                                                                                            <a href="/university-rankings/microbiology">Microbiology</a>
+                                                                                                            <a href="/university-rankings/molecular-biology">Molecular Biology</a>
+                                                                                                            <a href="/university-rankings/neuroscience">Neuroscience</a>
+                                                                                                    </div>
+                                                                                                                                                                                <div class="col col--3-12 col--tablet">
+                                                                                                            <a href="/university-rankings/physics">Physics</a>
+                                                                                                            <a href="/university-rankings/plant-science-and-agronomy">Plant Science and Agronomy</a>
+                                                                                                            <a href="/university-rankings/political-science">Political Science</a>
+                                                                                                            <a href="/university-rankings/psychology">Psychology</a>
+                                                                                                            <a href="/university-rankings/social-sciences-and-humanities">Social Sciences and Humanities</a>
+                                                                                                    </div>
+                                                                                                                        </div>
+                                                                    <span style="margin-bottom: 15px; display: block;">GLOBAL RANKINGS</span>
+                                    <div class="cols wrap">
+                                                                                                                                    <div class="col col--3-12 col--tablet">
+                                                                                                            <a href="/university-rankings/best-global-universities">Best Universities</a>
+                                                                                                            <a href="/university-rankings/best-global-universities/au">Best Universities in Australia</a>
+                                                                                                            <a href="/university-rankings/best-global-universities/ca">Best Universities in Canada</a>
+                                                                                                            <a href="/university-rankings/best-global-universities/de">Best Universities in Germany</a>
+                                                                                                            <a href="/university-rankings/best-global-universities/jp">Best Universities in Japan</a>
+                                                                                                            <a href="/university-rankings/best-global-universities/gb">Best Universities in United Kingdom</a>
+                                                                                                            <a href="/university-rankings/best-global-universities/fr">Best Universities in France</a>
+                                                                                                    </div>
+                                                                                                                                                                                <div class="col col--3-12 col--tablet">
+                                                                                                            <a href="/university-rankings/best-global-universities/in">Best Universities in India</a>
+                                                                                                            <a href="/university-rankings/best-global-universities/cn">Best Universities in China</a>
+                                                                                                            <a href="/university-rankings/best-global-universities/br">Best Universities in Brazil</a>
+                                                                                                    </div>
+                                                                                                                        </div>
+                                                            </div>
+                        </div>
+                    </div>
+                            </nav>
+            <div class="header__toggle show-ipad">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </div>
+</header>
+
+    <div class="main-container">
+                <ul class="breadcrumbs">
+    <li><a href="/" title="Homepage">Home</a></li>
+                        <li><a href="/university-rankings/computer-science" title="Best Universities">Best Universities
+                     - Computer Science</a></li>
+                         <li>RWTH Aachen University</li>             </ul>
+        <div class="university-top flex cols wrap space-between">
+            <div class="flex col col--4 col--tablet">
+                <img src="https://s.research.com/images/f6ed6a90534c34ec4241c08e3aa1ae5c1be70a22-135x135.png" onerror="this.onerror=null;this.src='/images/placeholder-institution.svg'" alt="RWTH Aachen University" width="135" height="135" class="bg-white">
+                <div>
+                    <h1>RWTH Aachen University</h1>
+                    <h2>- Computer Science Ranking</h2>
+                    <div class="flex wrap info">
+                        <span><svg>
+                            <use href="#svg-location"></use></svg>
+                                                                                                <a href="/university-rankings/computer-science/de" title="Germany">
+    Germany
+</a>
+                                                                                    </span>
+                                                    <span><svg><use href="#svg-established"></use></svg>Established: <strong>1870</strong></span>
+                                                <span><svg><use href="#svg-authors"></use></svg>Scholars: <strong>28</strong></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col col--2 col--tablet">
+                <div class="profile-badges flex">
+                                    <img src="https://s.research.com/website/10194361263/images/best_university_2023.png" alt="Research.com Best Researchers 2023 Badge">
+                                                <div class="ribbon-badges__item">
+                    <div class="ribbon-badges__title">
+                        <div style="font-size:18px">
+                            Computer Science
+                        </div>
+                    </div>
+                    <div class="ribbon-badges__country">Germany</div>
+                    <div class="ribbon-badges__year">2023</div>
+                </div>
+                        </div>
+            </div>
+        </div>
+        <div class="tabs flex">
+                            <a href="#top-scientists" class="active">Best Scientists</a>
+                                    <a href="#overview">Overview</a>
+                                    </div>
+        <div class="section bg-white shadow">
+            <div class="tabs-content">
+                                <div id="top-scientists" class="tabs-tab active cv-auto">
+                    <h2><svg><use href="#svg-authors"></use></svg>Best scientists</h2>
+                                            <p>
+                            Position in the ranking is based on each scientist’s D-index using data compiled from
+                            OpenAlex and CrossRef by November 21st 2023.
+                        </p>
+                        <p>
+                            This ranking lists all the best researchers from the Computer Science discipline and
+                            affiliated with RWTH Aachen University.
+
+                                                            There are a total of 28 researchers included with 3                                of them also being included in the global ranking.
+
+                            The total sum for the D-index values for the best scientists
+                            in RWTH Aachen University is 1,617 with a mean value for
+                            the h-index of 57.75. The total sum of
+                            publications for the best scientists in RWTH Aachen University is 11,389 with the
+                            mean value for publications per scientist of 406.75.
+                        </p>
+                                    </div>
+                                                <div id="overview" class="tabs-tab cv-auto">
+                    <h2><svg><use href="#svg-info"></use></svg>Overview</h2>
+                    Rheinisch-Westfälische Technische Hochschule Aachen, known as RWTH Aachen University for short, is a polytechnic in the state of North Rhine-Westphalia in Germany. The university opened its doors to students in 1870 with the aim to mold professionals with the necessary knowledge and skills in an increasingly industrialized society. To that end, lecturers combined theory and practice in their instruction. Liberal education at the university was halted during the totalitarian regime of the Nazi Party but quickly resumed at the dawn of German democracy in January 1946. <br>
+<br>
+Academics in RWTH Aachen University is organized into nine faculties, all of which offer more than 100 study programs. The faculties are Mathematics, Computer Science and Natural Sciences, Architecture, Civil Engineering, Mechanical Engineering, Georesources and Materials Engineering, Electrical Engineering and Information Technology, Arts and Humanities, School of Business and Economics, and Medicine. In particular, the university is well recognized for its programs in mechanical engineering, industrial engineering, and electrical engineering as well as its courses in physics, chemistry, computer science, and medicine. <br>
+<br>
+The university’s 88,000 square-meter ground houses the offices of 260 institutes and seven collaborative research centers and transregio, or Transregional Collaborative Research Centre, all committed to inquiry in the institution’s eight key research areas. Furthermore, there are 34 research training programs with 10 of them being Deutsche Forschungsgemeinschaft training groups. The institution also cooperates with the research organization Fraunhofer Society for the Advancement of Applied Research to form institutes for Applied Information Technology, Laser Technology, Production Technology, and Molecular Biology and Applied Ecology.<br>
+<br>
+RWTH Aachen University’s dedication to research has won awards from the federal and state governments of Germany. It has three successful Clusters of Excellence: Fuel Science Center, Internet of Production, and Matter and Light for Quantum Computing. The latter is a collaborative project with the University of Cologne, the University of Bonn, and Forschungszentrum Jülich. Moreover, the institution is recognized as a University of Excellence for its project, the Integrated Interdisciplinary University of Science and Technology – Knowledge. Impact. Networks. Research undertakings such as these are in line with the university’s aim to enhance inquiry into the natural sciences and to promote interdisciplinary projects. <br>
+<br>
+RWTH Aachen University is committed to gender and diversity in its community as well. The institution started accepting female students to its undergraduate programs in 1909 and continues to give them access to its courses of study today. The university has students, researchers, instructors, and staff who come from over 125 countries, too. This internationalization positions RWTH Aachen University as a global institution and allows it to strengthen its instruction and research.
+
+
+                </div>
+                                </div>
+            <div class="ads-margin hide-tablet center">
+                            </div>
+            <div class="ads-margin show-tablet center">
+                            </div>
+                        <div id="rankings-content" class="rankings-content">
+                <div class="rankings-filters scientists-filters flex wrap">
+    <div class="col col--3 col--tablet">
+        <form id="searchRanking" class="relative">
+           <span id="clearFilter" class="clear-search"></span>
+            <input id="searchQuery" type="text" placeholder="Search by name" value="" minlength="2" required="">
+            <button type="submit"></button>
+        </form>
+    </div>
+    <div class="col col--3-12 col--tablet">
+        <form autocomplete="off">
+            <div class="select">
+        <select id="university-disciplines" class="filled">
+        <option data-filterlink="https://research.com/university/rwth-aachen-university">All disciplines</option>
+                                    <option data-filterlink="https://research.com/university/computer-science/rwth-aachen-university" selected="">
+                        Computer Science
+                    </option>
+                                    <option data-filterlink="https://research.com/university/business-and-management/rwth-aachen-university">
+                        Business and Management
+                    </option>
+                                    <option data-filterlink="https://research.com/university/economics-and-finance/rwth-aachen-university">
+                        Economics and Finance
+                    </option>
+                                    <option data-filterlink="https://research.com/university/engineering-and-technology/rwth-aachen-university">
+                        Engineering and Technology
+                    </option>
+                                    <option data-filterlink="https://research.com/university/psychology/rwth-aachen-university">
+                        Psychology
+                    </option>
+                                    <option data-filterlink="https://research.com/university/mathematics/rwth-aachen-university">
+                        Mathematics
+                    </option>
+                                    <option data-filterlink="https://research.com/university/mechanical-and-aerospace-engineering/rwth-aachen-university">
+                        Mechanical and Aerospace Engineering
+                    </option>
+                                    <option data-filterlink="https://research.com/university/materials-science/rwth-aachen-university">
+                        Materials Science
+                    </option>
+                                    <option data-filterlink="https://research.com/university/electronics-and-electrical-engineering/rwth-aachen-university">
+                        Electronics and Electrical Engineering
+                    </option>
+                                    <option data-filterlink="https://research.com/university/medicine/rwth-aachen-university">
+                        Medicine
+                    </option>
+                                    <option data-filterlink="https://research.com/university/environmental-sciences/rwth-aachen-university">
+                        Environmental Sciences
+                    </option>
+                                    <option data-filterlink="https://research.com/university/biology-and-biochemistry/rwth-aachen-university">
+                        Biology and Biochemistry
+                    </option>
+                                    <option data-filterlink="https://research.com/university/chemistry/rwth-aachen-university">
+                        Chemistry
+                    </option>
+                                    <option data-filterlink="https://research.com/university/physics/rwth-aachen-university">
+                        Physics
+                    </option>
+                                    <option data-filterlink="https://research.com/university/earth-science/rwth-aachen-university">
+                        Earth Science
+                    </option>
+                                    <option data-filterlink="https://research.com/university/neuroscience/rwth-aachen-university">
+                        Neuroscience
+                    </option>
+                                    <option data-filterlink="https://research.com/university/microbiology/rwth-aachen-university">
+                        Microbiology
+                    </option>
+                                    <option data-filterlink="https://research.com/university/immunology/rwth-aachen-university">
+                        Immunology
+                    </option>
+                                    <option data-filterlink="https://research.com/university/genetics/rwth-aachen-university">
+                        Genetics
+                    </option>
+                                    <option data-filterlink="https://research.com/university/molecular-biology/rwth-aachen-university">
+                        Molecular Biology
+                    </option>
+    </select>
+</div>
+        </form>
+    </div>
+    <div class="col col--3-12 col--tablet">
+        <div class="select">
+        <select id="sortBy" data-dynamicfilter="true" class="filled">
+        <option value="worldPosition">
+            Sort by World Position
+        </option>
+            <option value="NAME">
+            Sort by Name
+        </option>
+            <option value="DINDEX">
+            Sort by D-Index
+        </option>
+            <option value="PUBLICATIONS">
+            Sort by Publications
+        </option>
+            <option value="CITATIONS">
+            Sort by Citations
+        </option>
+    </select>
+</div>
+    </div>
+</div>
+<div class="cols hide-tablet rankings-content__head">
+    <div class="col col--1 cols mx-0 py-0 px-0 center">
+        <div class="col col--3 px-0">
+            World
+        </div>
+        <div class="col col--3 px-0">
+            National
+        </div>
+    </div>
+    <div class="col col--5-12 cols mx-0 py-0">
+        <div class="col col--1"></div>
+        <div class="col col--5">
+            Scholar
+        </div>
+    </div>
+    <div class="col col--5-12 cols mx-0">
+        <div class="col col--2 py-0 center with-tooltip relative">
+            D-index
+            <span class="tooltip">
+                D-index (Discipline H-index) only includes papers and citation values for an examined discipline in
+                contrast to General H-index which accounts for publications across all disciplines.
+            </span>
+        </div>
+        <div class="col col--2 py-0 center">
+            Citations
+        </div>
+        <div class="col col--2 py-0 px-0 center">
+                            Publications
+                    </div>
+    </div>
+</div>
+<div id="rankingItems" data-items="25" class="cv-auto">
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            9
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            2
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/fe632259056863c6fa380c782501f67bd4a145a7-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Wil M. P. van der Aalst" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/wil-m-p-van-der-aalst" title="Read more">Wil M. P. van der Aalst</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    172</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    135,277</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    1,337</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            151
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            9
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/db0492f413e9675832397d349998de80ec2daff9-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Hermann Ney" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/hermann-ney" title="Read more">Hermann Ney</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    112</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    61,670</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    985</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            913
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            33
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/83349d4a04afcada73d43c1a29fdc4f9a830494b-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Stefan Decker" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/stefan-decker" title="Read more">Stefan Decker</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    78</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    24,886</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    397</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            1001
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            36
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/315725fa263ae37def00b0654bb706f6963de1f3-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Bastian Leibe" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/bastian-leibe" title="Read more">Bastian Leibe</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    76</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    28,761</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    215</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            1012
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            37
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/540ad1eea7b08b056116866aa77e9b141adf1ba0-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Leif Kobbelt" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/leif-kobbelt" title="Read more">Leif Kobbelt</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    76</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    23,242</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    329</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            1341
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            51
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/1e00b52a683fd1877233646b22f91f697f56e4ff-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Joost-Pieter Katoen" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/joost-pieter-katoen" title="Read more">Joost-Pieter Katoen</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    71</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    25,767</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    472</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            1382
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            52
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/3bf4c2a897ced8ff263fbf77208b1b517d41d223-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Gerhard J. Woeginger" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/gerhard-woeginger" title="Read more">Gerhard J. Woeginger</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    71</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    17,490</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    499</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            1516
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            58
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/fd16be36ae55ce6b9705577f84960ac3d8dc4a44-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Matthias Jarke" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/matthias-jarke" title="Read more">Matthias Jarke</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    69</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    21,481</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    623</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            2399
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            106
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/aaa0fc4df3b999f3627bf59f2ba1adf224003310-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Heinrich Meyr" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/heinrich-meyr" title="Read more">Heinrich Meyr</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    61</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    17,942</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    397</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            2740
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            125
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/45b0abe2953e478ac98a984e58590942d1f1839c-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Bernhard Rumpe" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/bernhard-rumpe" title="Read more">Bernhard Rumpe</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    59</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    14,927</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    621</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            3242
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            152
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/aa5e2a96fea441a837557090e0ebcc8bc65f0004-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Martin Grohe" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/martin-grohe" title="Read more">Martin Grohe</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    56</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    15,816</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    235</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            3519
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            162
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/710667e7609223f3dd234139a156c05016093cf0-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Markus Diesmann" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/markus-diesmann" title="Read more">Markus Diesmann</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    55</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    11,721</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    279</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            3986
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            180
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/858d3dd992cab7350d5dc54e302a7883312251d8-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Rainer Leupers" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/rainer-leupers" title="Read more">Rainer Leupers</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    53</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    8,581</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    456</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            4318
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            196
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/d331cd8a49b0a4e184924750c82bf628aff63cf6-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Petri Mahonen" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/petri-mahonen" title="Read more">Petri Mahonen</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    51</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    11,230</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    439</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            4986
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            232
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/f790081e073b6eebfd2e5c5c3d83526a9b1e60f3-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Ralf Schlüter" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/ralf-schluter" title="Read more">Ralf Schlüter</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    48</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    11,118</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    261</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            4991
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            233
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/fd81e022976a590ae8d2ee32a3c7f5184c38ab4e-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Hector Geffner" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/hector-geffner" title="Read more">Hector Geffner</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    48</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    10,959</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    158</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            5537
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            268
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/0451834600704195ee67477dbba7af52d8014f2f-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Martina Ziefle" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/martina-ziefle" title="Read more">Martina Ziefle</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    46</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    9,258</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    515</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            6388
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            315
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/ce85016389fc363b49b389dfeefb8f842e5d25b7-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Klaus Wehrle" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/klaus-wehrle" title="Read more">Klaus Wehrle</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    43</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    11,185</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    395</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            7229
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            364
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/8540f5ea2af83212827b08d56fd5e43708da0f9f-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Peter Vary" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/peter-vary" title="Read more">Peter Vary</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    41</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    8,432</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    375</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            7416
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            372
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/ccd64f0626b5c2a80d49eb1627b72a3fbbd2ec22-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Jürgen Giesl" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/jurgen-giesl" title="Read more">Jürgen Giesl</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    41</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    5,850</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    167</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            7499
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            375
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/8bb09fd9538c66051251081a9ba25de364539efb-65x65.png" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Wolfgang Thomas" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/wolfgang-thomas" title="Read more">Wolfgang Thomas</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    40</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    12,337</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    172</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            8565
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            438
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/642a61413240d7890c930b8a01983353f9f8aa10-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Jan Borchers" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/jan-borchers" title="Read more">Jan Borchers</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    38</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    7,507</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    316</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            8996
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            460
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/277f027125e1747b87be5a052b3595aface5a7c7-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Erich Grädel" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/erich-gradel" title="Read more">Erich Grädel</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    37</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    9,297</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    174</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            9415
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            482
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/website/10194361263/images/placeholder-scholar.svg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Peter Rossmanith" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/peter-rossmanith" title="Read more">Peter Rossmanith</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    37</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    4,516</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    147</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item  show ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            9753
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            498
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/3f4b2b4a741148e511aa78965f80e05ecdb2c8f7-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Til Aach" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/til-aach" title="Read more">Til Aach</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    36</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    5,988</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    277</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            9760
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            499
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/website/10194361263/images/placeholder-scholar.svg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Gerd Ascheid" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/gerd-ascheid" title="Read more">Gerd Ascheid</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    36</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    5,943</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    489</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            9860
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            507
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/images/bf52acdfeba11c0e29ec199c5717fa6c2a800e77-65x65.jpeg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Janne Riihijarvi" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/janne-riihijarvi" title="Read more">Janne Riihijarvi</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    36</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    5,288</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    207</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            10695
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            547
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/website/10194361263/images/placeholder-scholar.svg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Rudolf Mathar" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/rudolf-mathar" title="Read more">Rudolf Mathar</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    34</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    5,797</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    448</span>
+                    </span>
+    </span>
+</div>
+            <div class="cols scientist-item rankings-content__item ">
+    <span class="col col--1 cols col--tablet mx-0 py-0 px-0 center positions">
+        <span class="col col--3 py-0 px-0 position border">
+            11478
+            <span class="show-tablet desc">World</span>
+        </span>
+        <span class="col col--3 py-0 px-0 position">
+            571
+            <span class="show-tablet desc">National</span>
+        </span>
+    </span>
+    <div class="col col--5-12 cols col--tablet mx-0 py-0 info">
+        <span class="col col--1 px-0 py-0 img">
+           <img class="lazyload" src="https://s.research.com/website/10194361263/images/placeholder-scholar.svg" onerror="this.onerror=null;
+            this.src='/images/placeholder.svg'" alt="Haris Gacanin" loading="lazy">        </span>
+        <div class="col col--5 col--tablet">
+                            <h4><a href="/u/haris-gacanin" title="Read more">Haris Gacanin</a></h4>
+                                        <span class="sh">
+                    RWTH Aachen University,
+                    Germany
+                </span>
+                    </div>
+    </div>
+    <span class="col col--5-12 py-0 cols mx-0 rankings-info">
+        <span class="col col--2 col--tablet py-0 ranking">
+            <span class="show-tablet desc">
+                                    D-index
+                            </span>
+
+            <span class=" ranking no-wrap">
+    32</span>
+        </span>
+        <span class="col col--2 col--tablet tablet-no-border py-0 ranking">
+            <span class="show-tablet desc">Citations</span>
+
+                    <span class=" ranking no-wrap">
+    4,573</span>
+                        </span>
+        <span class="col col--2 py-0 hide-tablet ranking">
+
+                <span class=" col col--3 py-0  ranking no-wrap">
+    281</span>
+                    </span>
+    </span>
+</div>
+
+</div>
+            </div>
+                        <div class="ads-margin center">
+                            </div>
+            <div class="hide-tablet">
+                <p class="ps p-opacity">
+                    Our research was coordinated by Imed Bouchrika, PhD, a computer scientist with a well-established record
+                    of collaboration on a number of international research projects with different partners from the academic
+                    community. His role was to make sure all data remained unbiased, accurate, and up-to-date.
+                </p>
+                <p class="ps p-opacity">
+                    We list only scientists having D-Index &gt;= 30 within the area of
+                    Computer Science. If you or other scholars are not listed, we appreciate if you can
+                    <a href="/contact-us" title="Contact us">contact us</a>.
+                </p>
+            </div>
+        </div>
+
+        <div>
+        <div class="tab bg-white shadow cv-auto">
+            <h2 style="padding-top: 40px;">
+                <svg>
+                    <use href="#svg-related"></use>
+                </svg>
+                Recently Published Articles
+            </h2>
+            <div class="sliding-section glide glide--ltr glide--slider glide--swipeable visible">
+                <div class="glide__track" data-glide-el="track">
+                    <div class="tab-slide wrap top-scientists glide__slides" data-glide-el="track" style="transition: transform cubic-bezier(0.165, 0.84, 0.44, 1); width: 4040px; transform: translate3d(0px, 0px, 0px);">
+                                                    <div class="flex wrap glide__slide--active" style="width: 1000px; margin-right: 5px;">
+                                                                    <div class="col col--4-12 col--tablet">
+                                        <div class="post-box">
+                                            <img class="lazyload" style="min-height: 189px;" src="https://s.research.com/website/10194361263/images/logo-dark.svg" alt="2024 Best Online Accounting Degree Programs Ranking in Texas" loading="lazy">                                            <div>
+                                                <h3>
+                                                    <a href="/rankings/accounting/best-online-accounting-tx" title="2024 Best Online Accounting Degree Programs Ranking in Texas">
+                                                        2024 Best Online Accounting Degree Programs Ranking in Texas
+                                                    </a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="col col--4-12 col--tablet">
+                                        <div class="post-box">
+                                            <img class="lazyload" style="min-height: 189px;" src="https://s.research.com/website/10194361263/images/logo-dark.svg" alt="2024 Best Online Human Resources Degree Programs Ranking in Illinois" loading="lazy">                                            <div>
+                                                <h3>
+                                                    <a href="/rankings/human-resources/best-online-human-resources-il" title="2024 Best Online Human Resources Degree Programs Ranking in Illinois">
+                                                        2024 Best Online Human Resources Degree Programs Ranking in Illinois
+                                                    </a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="col col--4-12 col--tablet">
+                                        <div class="post-box">
+                                            <img class="lazyload" style="min-height: 189px;" src="https://s.research.com/website/10194361263/images/logo-dark.svg" alt="2024 Fastest Online Human Resources Degree Programs Ranking in Florida" loading="lazy">                                            <div>
+                                                <h3>
+                                                    <a href="/rankings/human-resources/fastest-online-human-resources-fl" title="2024 Fastest Online Human Resources Degree Programs Ranking in Florida">
+                                                        2024 Fastest Online Human Resources Degree Programs Ranking in Florida
+                                                    </a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                            </div>
+                                                    <div class="flex wrap" style="width: 1000px; margin-left: 5px; margin-right: 5px;">
+                                                                    <div class="col col--4-12 col--tablet">
+                                        <div class="post-box">
+                                            <img class="lazyload" style="min-height: 189px;" src="https://s.research.com/website/10194361263/images/logo-dark.svg" alt="2024 Fastest Online Finance Degree Programs Ranking in Missouri" loading="lazy">                                            <div>
+                                                <h3>
+                                                    <a href="/rankings/finance/fastest-online-finance-mo" title="2024 Fastest Online Finance Degree Programs Ranking in Missouri">
+                                                        2024 Fastest Online Finance Degree Programs Ranking in Missouri
+                                                    </a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="col col--4-12 col--tablet">
+                                        <div class="post-box">
+                                            <img class="lazyload" style="min-height: 189px;" src="https://s.research.com/website/10194361263/images/logo-dark.svg" alt="2024 Fastest Online Master's in Accounting Degree Programs Ranking in America" loading="lazy">                                            <div>
+                                                <h3>
+                                                    <a href="/rankings/accounting/fastest-online-accounting-master-usa" title="2024 Fastest Online Master's in Accounting Degree Programs Ranking in America">
+                                                        2024 Fastest Online Master's in Accounting Degree Programs Ranking in America
+                                                    </a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="col col--4-12 col--tablet">
+                                        <div class="post-box">
+                                            <img class="lazyload" style="min-height: 189px;" src="https://s.research.com/website/10194361263/images/logo-dark.svg" alt="2024 Best Online Master's in Finance Degree Programs Ranking in the West" loading="lazy">                                            <div>
+                                                <h3>
+                                                    <a href="/rankings/finance/best-online-finance-master-west" title="2024 Best Online Master's in Finance Degree Programs Ranking in the West">
+                                                        2024 Best Online Master's in Finance Degree Programs Ranking in the West
+                                                    </a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                            </div>
+                                                    <div class="flex wrap" style="width: 1000px; margin-left: 5px; margin-right: 5px;">
+                                                                    <div class="col col--4-12 col--tablet">
+                                        <div class="post-box">
+                                            <img class="lazyload" style="min-height: 189px;" src="https://s.research.com/website/10194361263/images/logo-dark.svg" alt="2024 Most Affordable Online Bachelor's in Human Resources Degree Programs Ranking in Illinois" loading="lazy">                                            <div>
+                                                <h3>
+                                                    <a href="/rankings/human-resources/most-affordable-online-human-resources-bachelor-il" title="2024 Most Affordable Online Bachelor's in Human Resources Degree Programs Ranking in Illinois">
+                                                        2024 Most Affordable Online Bachelor's in Human Resources Degree Programs Ranking in Illinois
+                                                    </a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="col col--4-12 col--tablet">
+                                        <div class="post-box">
+                                            <img class="lazyload" style="min-height: 189px;" src="https://s.research.com/website/10194361263/images/logo-dark.svg" alt="2024 Fastest Online Master's in Accounting Degree Programs Ranking in Pennsylvania" loading="lazy">                                            <div>
+                                                <h3>
+                                                    <a href="/rankings/accounting/fastest-online-accounting-master-pa" title="2024 Fastest Online Master's in Accounting Degree Programs Ranking in Pennsylvania">
+                                                        2024 Fastest Online Master's in Accounting Degree Programs Ranking in Pennsylvania
+                                                    </a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="col col--4-12 col--tablet">
+                                        <div class="post-box">
+                                            <img class="lazyload" style="min-height: 189px;" src="https://s.research.com/website/10194361263/images/logo-dark.svg" alt="2024 Fastest Online Finance Degree Programs Ranking in the South" loading="lazy">                                            <div>
+                                                <h3>
+                                                    <a href="/rankings/finance/fastest-online-finance-south" title="2024 Fastest Online Finance Degree Programs Ranking in the South">
+                                                        2024 Fastest Online Finance Degree Programs Ranking in the South
+                                                    </a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                            </div>
+                                                    <div class="flex wrap" style="width: 1000px; margin-left: 5px;">
+                                                                    <div class="col col--4-12 col--tablet">
+                                        <div class="post-box">
+                                            <img class="lazyload" style="min-height: 189px;" src="https://s.research.com/website/10194361263/images/logo-dark.svg" alt="2024 Fastest Online Finance Degree Programs Ranking in the Midwest" loading="lazy">                                            <div>
+                                                <h3>
+                                                    <a href="/rankings/finance/fastest-online-finance-midwest" title="2024 Fastest Online Finance Degree Programs Ranking in the Midwest">
+                                                        2024 Fastest Online Finance Degree Programs Ranking in the Midwest
+                                                    </a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="col col--4-12 col--tablet">
+                                        <div class="post-box">
+                                            <img class="lazyload" style="min-height: 189px;" src="https://s.research.com/website/10194361263/images/logo-dark.svg" alt="2024 Fastest Online Master's in Human Resources Degree Programs Ranking in Illinois" loading="lazy">                                            <div>
+                                                <h3>
+                                                    <a href="/rankings/human-resources/fastest-online-human-resources-master-il" title="2024 Fastest Online Master's in Human Resources Degree Programs Ranking in Illinois">
+                                                        2024 Fastest Online Master's in Human Resources Degree Programs Ranking in Illinois
+                                                    </a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="col col--4-12 col--tablet">
+                                        <div class="post-box">
+                                            <img class="lazyload" style="min-height: 189px;" src="https://s.research.com/website/10194361263/images/logo-dark.svg" alt="2024 Fastest Online Accounting Degree Programs Ranking in Michigan" loading="lazy">                                            <div>
+                                                <h3>
+                                                    <a href="/rankings/accounting/fastest-online-accounting-mi" title="2024 Fastest Online Accounting Degree Programs Ranking in Michigan">
+                                                        2024 Fastest Online Accounting Degree Programs Ranking in Michigan
+                                                    </a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                            </div>
+                                            </div>
+                </div>
+                                    <div class="glide__arrows" data-glide-el="controls">
+                                <span class="glide__arrow glide__arrow--left prev" data-glide-dir="<">
+                                    <svg><use href="#svg-arrow"></use></svg>
+                                </span>
+                        <span class="glide__arrow glide__arrow--right next" data-glide-dir=">">
+                                    <svg><use href="#svg-arrow"></use></svg>
+                                </span>
+                    </div>
+                    <div class="glide__bullets bullets" data-glide-el="controls[nav]">
+                                                    <span class="glide__bullet glide__bullet--active" data-glide-dir="=0"></span>
+                                                    <span class="glide__bullet" data-glide-dir="=1"></span>
+                                                    <span class="glide__bullet" data-glide-dir="=2"></span>
+                                                    <span class="glide__bullet" data-glide-dir="=3"></span>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+    </div>
+
+<footer class="footer cv-auto">
+    <div class="main-container">
+        <div class="footer__top">
+            <a href="/" title="Research.com">
+                <img src="https://s.research.com/website/10194361263/images/logo-dark.svg" loading="lazy" class="lazyload" alt="Research.com Logo" width="190" height="22">
+            </a>
+            <div class="footer__socials">
+                <a href="https://www.facebook.com/guide2research/" title="Facebook" target="_blank" rel="noopener nofollow">
+    <svg><use xlink:href="#svg-facebook"></use></svg>
+</a>                <a href="https://twitter.com/guide2research" title="X" target="_blank" rel="noopener nofollow">
+    <svg><use xlink:href="#svg-x"></use></svg>
+</a>            </div>
+        </div>
+        <div class="footer__bottom">
+            <p>
+                Copyright © 2024 Research.com. All rights reserved. <br>
+                <span class="hidden"> Release: 10194361263 </span>
+            </p>
+            <div id="footer-menu" class="footer__menu">
+                <div class="column">
+                    <a href="/our-methodology" title="Methodology">Methodology</a>
+                    <a href="/blog" title="Blog">Blog</a>
+                    <a href="/about-us" title="About">About</a>
+                    <a href="/experts" title="Our Experts">Our Experts</a>
+                </div>
+                <div class="column">
+                    <a href="/contact-us" title="Contact">Contact</a>
+                    <a href="/press" title="Press Room">Press Room</a>
+                </div>
+                <div class="column">
+                    <a href="/editorial-policy" title="Editorial Policy">Editorial Policy</a>
+                    <a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<iframe id="bj7HLyjo" frameborder="0" src="chrome-extension://ekhagklcjbdpajgpjgmbionohlpdbjgc/translateSandbox/translateSandbox.html" style="width: 0px; height: 0px; display: none;"></iframe></body></html>
