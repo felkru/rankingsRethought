@@ -1,0 +1,1606 @@
+.
+├── ./analyze-data.ipynb
+├── ./d-index-per-scholar
+│   ├── ./d-index-per-scholar/100-200.txt
+│   ├── ./d-index-per-scholar/100.txt
+│   ├── ./d-index-per-scholar/cs100.txt
+│   └── ./d-index-per-scholar/d-index-per-scholar.ipynb
+├── ./data
+│   ├── ./data/ETH Zurich.csv
+│   ├── ./data/MIT.csv
+│   ├── ./data/RWTH Aachen University.csv
+│   └── ./data/University of Oxford.csv
+├── ./html
+│   ├── ./html/eth_top.txt
+│   ├── ./html/mit-1-100.txt
+│   ├── ./html/mit-101-148.txt
+│   ├── ./html/oxford_top.txt
+│   └── ./html/rwth_top_scientists.txt
+├── ./scrape-csv.ipynb
+├── ./tree_and_summary.txt
+└── ./university_h_index_comparison.html
+
+4 directories, 17 files
+================================
+File: ./.DS_Store
+This is a non-text file.
+./.DS_Store: Apple Desktop Services Store
+================================
+File: ./d-index-per-scholar/100.txt
+Summary (first 1000 characters):
+<html lang="en"><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PLXGG22"></script><script async="" src="https://www.clarity.ms/tag/ffq347geb3"></script><head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<meta name="theme-color" content="#007397">
+    <meta name="csrf-token" content="DuNQsetKCXNZCeebEe8ggxQpR4nbj49HMrJr6oXc">
+<title>Best Universities in the World 2023 Ranking | Research.com</title>
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Best Universities in the World 2023 Ranking | Research.com">
+<meta property="og:url" content="https://research.com/university-rankings/best-global-universities">
+<meta property="og:site_name" content="Research.com">
+    <meta property="og:description" content="Compare the best universities in the world for 2023. Discover Research.com annual Best Universities in the World 2022">
+<meta...
+Summary (last 1000 characters):
+           <a href="/our-methodology" title="Methodology">Methodology</a>
+                    <a href="/blog" title="Blog">Blog</a>
+                    <a href="/about-us" title="About">About</a>
+                    <a href="/experts" title="Our Experts">Our Experts</a>
+                </div>
+                <div class="column">
+                    <a href="/contact-us" title="Contact">Contact</a>
+                    <a href="/press" title="Press Room">Press Room</a>
+                </div>
+                <div class="column">
+                    <a href="/editorial-policy" title="Editorial Policy">Editorial Policy</a>
+                    <a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<iframe id="6cLAiAcB" frameborder="0" src="chrome-extension://ekhagklcjbdpajgpjgmbionohlpdbjgc/translateSandbox/translateSandbox.html" style="width: 0px; height: 0px; display: none;"></iframe></body></html>================================
+File: ./d-index-per-scholar/cs100.txt
+Summary (first 1000 characters):
+<html lang="en"><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PLXGG22"></script><script async="" src="https://www.clarity.ms/tag/ffq347geb3"></script><head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<meta name="theme-color" content="#007397">
+    <meta name="csrf-token" content="DuNQsetKCXNZCeebEe8ggxQpR4nbj49HMrJr6oXc">
+<title>Best Computer Science Universities in the World Ranking 2024 | Research.com</title>
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Best Computer Science Universities in the World Ranking 2024 | Research.com">
+<meta property="og:url" content="https://research.com/university-rankings/computer-science">
+<meta property="og:site_name" content="Research.com">
+    <meta property="og:description" content="Compare the best Computer Science universities in the world for 2024. Discover Research.com annual ...
+Summary (last 1000 characters):
+           <a href="/our-methodology" title="Methodology">Methodology</a>
+                    <a href="/blog" title="Blog">Blog</a>
+                    <a href="/about-us" title="About">About</a>
+                    <a href="/experts" title="Our Experts">Our Experts</a>
+                </div>
+                <div class="column">
+                    <a href="/contact-us" title="Contact">Contact</a>
+                    <a href="/press" title="Press Room">Press Room</a>
+                </div>
+                <div class="column">
+                    <a href="/editorial-policy" title="Editorial Policy">Editorial Policy</a>
+                    <a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<iframe id="QBy9xJ7v" frameborder="0" src="chrome-extension://ekhagklcjbdpajgpjgmbionohlpdbjgc/translateSandbox/translateSandbox.html" style="width: 0px; height: 0px; display: none;"></iframe></body></html>================================
+File: ./d-index-per-scholar/d-index-per-scholar.ipynb
+This is a non-text file.
+./d-index-per-scholar/d-index-per-scholar.ipynb: JSON data
+================================
+File: ./d-index-per-scholar/100-200.txt
+Summary (first 1000 characters):
+<html lang="en"><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PLXGG22"></script><script async="" src="https://www.clarity.ms/tag/ffq347geb3"></script><head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<meta name="theme-color" content="#007397">
+    <meta name="csrf-token" content="DuNQsetKCXNZCeebEe8ggxQpR4nbj49HMrJr6oXc">
+<title>Best Universities in the World 2023 Ranking, page 2 | Research.com</title>
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Best Universities in the World 2023 Ranking, page 2 | Research.com">
+<meta property="og:url" content="https://research.com/university-rankings/best-global-universities">
+<meta property="og:site_name" content="Research.com">
+    <meta property="og:description" content="Compare the best universities in the world for 2023. Discover Research.com annual Best Universities in the Wo...
+Summary (last 1000 characters):
+           <a href="/our-methodology" title="Methodology">Methodology</a>
+                    <a href="/blog" title="Blog">Blog</a>
+                    <a href="/about-us" title="About">About</a>
+                    <a href="/experts" title="Our Experts">Our Experts</a>
+                </div>
+                <div class="column">
+                    <a href="/contact-us" title="Contact">Contact</a>
+                    <a href="/press" title="Press Room">Press Room</a>
+                </div>
+                <div class="column">
+                    <a href="/editorial-policy" title="Editorial Policy">Editorial Policy</a>
+                    <a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<iframe id="Io9OWvGs" frameborder="0" src="chrome-extension://ekhagklcjbdpajgpjgmbionohlpdbjgc/translateSandbox/translateSandbox.html" style="width: 0px; height: 0px; display: none;"></iframe></body></html>================================
+File: ./university_h_index_comparison.html
+Summary (first 1000 characters):
+<html>
+<head><meta charset="utf-8" /></head>
+<body>
+    <div>                        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
+        <script type="text/javascript">/**
+* plotly.js v2.32.0
+* Copyright 2012-2024, Plotly, Inc.
+* All rights reserved.
+* Licensed under the MIT license
+*/
+/*! For license information please see plotly.min.js.LICENSE.txt */
+!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==typeof define&&define.amd?define([],e):"object"==typeof exports?exports.Plotly=e():t.Plotly=e()}(self,(function(){return function(){var t={79288:function(t,e,r){"use strict";var n=r(3400),i={"X,X div":'direction:ltr;font-family:"Open Sans",verdana,arial,sans-serif;margin:0;padding:0;',"X input,X button":'font-family:"Open Sans",verdana,arial,sans-serif;',"X input:focus,X button:focus":"outline:none;","X a":"text-decoration:none;","X a:hover":"text-decoration:none;","X .crisp":"shape-rendering:crispEd...
+Summary (last 1000 characters):
+"ticks":"","zerolinecolor":"#EBF0F8"}},"shapedefaults":{"line":{"color":"#2a3f5f"}},"ternary":{"aaxis":{"gridcolor":"#DFE8F3","linecolor":"#A2B1C6","ticks":""},"baxis":{"gridcolor":"#DFE8F3","linecolor":"#A2B1C6","ticks":""},"bgcolor":"white","caxis":{"gridcolor":"#DFE8F3","linecolor":"#A2B1C6","ticks":""}},"title":{"x":0.05},"xaxis":{"automargin":true,"gridcolor":"#EBF0F8","linecolor":"#EBF0F8","ticks":"","title":{"standoff":15},"zerolinecolor":"#EBF0F8","zerolinewidth":2},"yaxis":{"automargin":true,"gridcolor":"#EBF0F8","linecolor":"#EBF0F8","ticks":"","title":{"standoff":15},"zerolinecolor":"#EBF0F8","zerolinewidth":2}}},"title":{"text":"University H-index Comparison with Lognormal Fit"},"xaxis":{"title":{"text":"H-index (min-max normalized)"}},"yaxis":{"title":{"text":"Internal university rank"}},"legend":{"title":{"text":"Legend"}}},                        {"responsive": true}                    )                };                            </script>        </div>
+</body>
+</html>================================
+File: ./html/eth_top.txt
+Summary (first 1000 characters):
+<html lang="en"><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PLXGG22"></script><script async="" src="https://www.clarity.ms/tag/ffq347geb3"></script><head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<meta name="theme-color" content="#007397">
+    <meta name="csrf-token" content="oEN9VjGNUFMdM5aM2S0wYKVR8QU4fvzWL1CcZ7Gq">
+<title>Best Computer Science Scientists in ETH Zurich - H-Index Ranking | Research.com</title>
+    <meta name="description" content="Discover the latest 2024 Computer Science university ranking for ETH Zurich">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Best Computer Science Scientists in ETH Zurich - H-Index Ranking | Research.com">
+<meta property="og:url" content="https://research.com/university/computer-science/eth-zurich">
+<meta property="og:site_name" content="Research.com">
+    <meta property...
+Summary (last 1000 characters):
+           <a href="/our-methodology" title="Methodology">Methodology</a>
+                    <a href="/blog" title="Blog">Blog</a>
+                    <a href="/about-us" title="About">About</a>
+                    <a href="/experts" title="Our Experts">Our Experts</a>
+                </div>
+                <div class="column">
+                    <a href="/contact-us" title="Contact">Contact</a>
+                    <a href="/press" title="Press Room">Press Room</a>
+                </div>
+                <div class="column">
+                    <a href="/editorial-policy" title="Editorial Policy">Editorial Policy</a>
+                    <a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<iframe id="tpTlqNo8" frameborder="0" src="chrome-extension://ekhagklcjbdpajgpjgmbionohlpdbjgc/translateSandbox/translateSandbox.html" style="width: 0px; height: 0px; display: none;"></iframe></body></html>================================
+File: ./html/rwth_top_scientists.txt
+Summary (first 1000 characters):
+<html lang="en"><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PLXGG22"></script><script async="" src="https://www.clarity.ms/tag/ffq347geb3"></script><head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<meta name="theme-color" content="#007397">
+    <meta name="csrf-token" content="oEN9VjGNUFMdM5aM2S0wYKVR8QU4fvzWL1CcZ7Gq">
+<title>Best Computer Science Scientists in RWTH Aachen University - H-Index Ranking | Research.com</title>
+    <meta name="description" content="Discover the latest 2024 Computer Science university ranking for RWTH Aachen University">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Best Computer Science Scientists in RWTH Aachen University - H-Index Ranking | Research.com">
+<meta property="og:url" content="https://research.com/university/computer-science/rwth-aachen-university">
+<meta property="og:site_...
+Summary (last 1000 characters):
+           <a href="/our-methodology" title="Methodology">Methodology</a>
+                    <a href="/blog" title="Blog">Blog</a>
+                    <a href="/about-us" title="About">About</a>
+                    <a href="/experts" title="Our Experts">Our Experts</a>
+                </div>
+                <div class="column">
+                    <a href="/contact-us" title="Contact">Contact</a>
+                    <a href="/press" title="Press Room">Press Room</a>
+                </div>
+                <div class="column">
+                    <a href="/editorial-policy" title="Editorial Policy">Editorial Policy</a>
+                    <a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<iframe id="bj7HLyjo" frameborder="0" src="chrome-extension://ekhagklcjbdpajgpjgmbionohlpdbjgc/translateSandbox/translateSandbox.html" style="width: 0px; height: 0px; display: none;"></iframe></body></html>================================
+File: ./html/mit-1-100.txt
+Summary (first 1000 characters):
+<html lang="en"><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PLXGG22"></script><script async="" src="https://www.clarity.ms/tag/ffq347geb3"></script><head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<meta name="theme-color" content="#007397">
+    <meta name="csrf-token" content="oEN9VjGNUFMdM5aM2S0wYKVR8QU4fvzWL1CcZ7Gq">
+<title>Best Computer Science Scientists in MIT - H-Index Ranking | Research.com</title>
+    <meta name="description" content="Discover the latest 2024 Computer Science university ranking for MIT">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Best Computer Science Scientists in MIT - H-Index Ranking | Research.com">
+<meta property="og:url" content="https://research.com/university/computer-science/mit">
+<meta property="og:site_name" content="Research.com">
+    <meta property="og:description" content="D...
+Summary (last 1000 characters):
+           <a href="/our-methodology" title="Methodology">Methodology</a>
+                    <a href="/blog" title="Blog">Blog</a>
+                    <a href="/about-us" title="About">About</a>
+                    <a href="/experts" title="Our Experts">Our Experts</a>
+                </div>
+                <div class="column">
+                    <a href="/contact-us" title="Contact">Contact</a>
+                    <a href="/press" title="Press Room">Press Room</a>
+                </div>
+                <div class="column">
+                    <a href="/editorial-policy" title="Editorial Policy">Editorial Policy</a>
+                    <a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<iframe id="rXaQj3yk" frameborder="0" src="chrome-extension://ekhagklcjbdpajgpjgmbionohlpdbjgc/translateSandbox/translateSandbox.html" style="width: 0px; height: 0px; display: none;"></iframe></body></html>================================
+File: ./html/oxford_top.txt
+Summary (first 1000 characters):
+<html lang="en"><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PLXGG22"></script><script async="" src="https://www.clarity.ms/tag/ffq347geb3"></script><head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<meta name="theme-color" content="#007397">
+    <meta name="csrf-token" content="oEN9VjGNUFMdM5aM2S0wYKVR8QU4fvzWL1CcZ7Gq">
+<title>Best Computer Science Scientists in University of Oxford - H-Index Ranking | Research.com</title>
+    <meta name="description" content="Discover the latest 2024 Computer Science university ranking for University of Oxford">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Best Computer Science Scientists in University of Oxford - H-Index Ranking | Research.com">
+<meta property="og:url" content="https://research.com/university/computer-science/university-of-oxford">
+<meta property="og:site_name" co...
+Summary (last 1000 characters):
+           <a href="/our-methodology" title="Methodology">Methodology</a>
+                    <a href="/blog" title="Blog">Blog</a>
+                    <a href="/about-us" title="About">About</a>
+                    <a href="/experts" title="Our Experts">Our Experts</a>
+                </div>
+                <div class="column">
+                    <a href="/contact-us" title="Contact">Contact</a>
+                    <a href="/press" title="Press Room">Press Room</a>
+                </div>
+                <div class="column">
+                    <a href="/editorial-policy" title="Editorial Policy">Editorial Policy</a>
+                    <a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<iframe id="5NUgVwY8" frameborder="0" src="chrome-extension://ekhagklcjbdpajgpjgmbionohlpdbjgc/translateSandbox/translateSandbox.html" style="width: 0px; height: 0px; display: none;"></iframe></body></html>================================
+File: ./html/mit-101-148.txt
+Summary (first 1000 characters):
+<html lang="en"><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PLXGG22"></script><script async="" src="https://www.clarity.ms/tag/ffq347geb3"></script><head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<meta name="theme-color" content="#007397">
+    <meta name="csrf-token" content="oEN9VjGNUFMdM5aM2S0wYKVR8QU4fvzWL1CcZ7Gq">
+<title>Best Computer Science Scientists in MIT - H-Index Ranking Page 2 | Research.com</title>
+    <meta name="description" content="Discover the latest 2024 Computer Science university ranking for MIT">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Best Computer Science Scientists in MIT - H-Index Ranking Page 2 | Research.com">
+<meta property="og:url" content="https://research.com/university/computer-science/mit">
+<meta property="og:site_name" content="Research.com">
+    <meta property="og:descripti...
+Summary (last 1000 characters):
+           <a href="/our-methodology" title="Methodology">Methodology</a>
+                    <a href="/blog" title="Blog">Blog</a>
+                    <a href="/about-us" title="About">About</a>
+                    <a href="/experts" title="Our Experts">Our Experts</a>
+                </div>
+                <div class="column">
+                    <a href="/contact-us" title="Contact">Contact</a>
+                    <a href="/press" title="Press Room">Press Room</a>
+                </div>
+                <div class="column">
+                    <a href="/editorial-policy" title="Editorial Policy">Editorial Policy</a>
+                    <a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<iframe id="tURV4A45" frameborder="0" src="chrome-extension://ekhagklcjbdpajgpjgmbionohlpdbjgc/translateSandbox/translateSandbox.html" style="width: 0px; height: 0px; display: none;"></iframe></body></html>================================
+File: ./scrape-csv.ipynb
+This is a non-text file.
+./scrape-csv.ipynb: JSON data
+================================
+File: ./analyze-data.ipynb
+Summary (first 1000 characters):
+{
+ "cells": [
+  {
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2024-08-07T10:04:17.968091Z",
+     "start_time": "2024-08-07T10:04:17.965698Z"
+    }
+   },
+   "cell_type": "code",
+   "source": [
+    "import pandas as pd\n",
+    "import numpy as np\n",
+    "\n",
+    "import matplotlib.pyplot as plt\n",
+    "import plotly.graph_objects as go\n",
+    "import plotly.io as pio\n",
+    "\n",
+    "from scipy.stats import lognorm, kstest"
+   ],
+   "id": "74883c1f68a0b55f",
+   "outputs": [],
+   "execution_count": 25
+  },
+  {
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2024-08-05T21:47:58.545050Z",
+     "start_time": "2024-08-05T21:47:58.536493Z"
+    }
+   },
+   "cell_type": "code",
+   "source": "mit, oxford, rwth, eth = pd.read_csv('./data/MIT.csv', index_col=0), pd.read_csv('./data/University of Oxford.csv', index_col=0), pd.read_csv('./data/RWTH Aachen University.csv', index_col=0), pd.read_csv('./data/ETH Zurich.csv', index_col=0) ",
+   "id": "1489d50f538f8cfc",
+   "outpu...
+Summary (last 1000 characters):
+,
+   "cell_type": "code",
+   "source": "f'''Percentage of scientists listed with an H-index higher than 50 at: MIT: {len(mit[mit['H-index'] < 50])/len(mit)}, RWTH: {len(rwth[rwth['H-index'] < 50])/len(rwth)}'''",
+   "id": "a07734890c087a2f",
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'Percentage of scientists listed with an H-index higher than 50 at: MIT: 0.3918918918918919, RWTH: 0.5172413793103449'"
+      ]
+     },
+     "execution_count": 10,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "execution_count": 10
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 2
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython2",
+   "version": "2.7.6"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
+================================
+File: ./.git/config
+Full content:
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+================================
+File: ./.git/objects/61/3bb9b1e7c2306854a966488f9dfb671caa4f64
+This is a non-text file.
+./.git/objects/61/3bb9b1e7c2306854a966488f9dfb671caa4f64: zlib compressed data
+================================
+File: ./.git/objects/66/ee0dc415d26b97326f62cc3856a8158daa1f18
+This is a non-text file.
+./.git/objects/66/ee0dc415d26b97326f62cc3856a8158daa1f18: zlib compressed data
+================================
+File: ./.git/objects/6f/542196bd697031fb08c5fff6323cf0db1960ec
+This is a non-text file.
+./.git/objects/6f/542196bd697031fb08c5fff6323cf0db1960ec: zlib compressed data
+================================
+File: ./.git/objects/32/2916f16c53e3623b8ef55e5f1b257dc9bac264
+This is a non-text file.
+./.git/objects/32/2916f16c53e3623b8ef55e5f1b257dc9bac264: zlib compressed data
+================================
+File: ./.git/objects/35/33941c9f329d83b3b2ef7008dc3b5c8d289910
+This is a non-text file.
+./.git/objects/35/33941c9f329d83b3b2ef7008dc3b5c8d289910: zlib compressed data
+================================
+File: ./.git/objects/94/a25f7f4cb416c083d265558da75d457237d671
+This is a non-text file.
+./.git/objects/94/a25f7f4cb416c083d265558da75d457237d671: zlib compressed data
+================================
+File: ./.git/objects/60/5c4e2dfd5b92515815a831b12079040cc95446
+This is a non-text file.
+./.git/objects/60/5c4e2dfd5b92515815a831b12079040cc95446: zlib compressed data
+================================
+File: ./.git/objects/5f/7480c804e26ca899ec209423c952d85c072a92
+This is a non-text file.
+./.git/objects/5f/7480c804e26ca899ec209423c952d85c072a92: zlib compressed data
+================================
+File: ./.git/objects/02/3e7e5e6a374380c0122a99e6e2762204a979f5
+This is a non-text file.
+./.git/objects/02/3e7e5e6a374380c0122a99e6e2762204a979f5: zlib compressed data
+================================
+File: ./.git/objects/be/e2bb5e31faa5e9820f8291167684f21f6498a2
+This is a non-text file.
+./.git/objects/be/e2bb5e31faa5e9820f8291167684f21f6498a2: zlib compressed data
+================================
+File: ./.git/objects/ee/93ce58ba60eb8dc48b54e8c69e8f6b30e6d33c
+This is a non-text file.
+./.git/objects/ee/93ce58ba60eb8dc48b54e8c69e8f6b30e6d33c: zlib compressed data
+================================
+File: ./.git/objects/c9/6a724d797f31d508811be5a4f8563b048ed01d
+This is a non-text file.
+./.git/objects/c9/6a724d797f31d508811be5a4f8563b048ed01d: zlib compressed data
+================================
+File: ./.git/objects/e3/aeb7e9db19cc0cf5be0528f9876ce5d78dd488
+This is a non-text file.
+./.git/objects/e3/aeb7e9db19cc0cf5be0528f9876ce5d78dd488: zlib compressed data
+================================
+File: ./.git/objects/7c/d39ecac87b225b1a277747ca2abf7d7dc6d65f
+This is a non-text file.
+./.git/objects/7c/d39ecac87b225b1a277747ca2abf7d7dc6d65f: zlib compressed data
+================================
+File: ./.git/objects/16/611f492310cb8cc23c274c0ab2dbca538204a4
+This is a non-text file.
+./.git/objects/16/611f492310cb8cc23c274c0ab2dbca538204a4: zlib compressed data
+================================
+File: ./.git/objects/42/85a88b721d182c9ceb115206745dcae9a43083
+This is a non-text file.
+./.git/objects/42/85a88b721d182c9ceb115206745dcae9a43083: zlib compressed data
+================================
+File: ./.git/objects/89/78a36fd2df657eb5430986be4f1817ede14047
+This is a non-text file.
+./.git/objects/89/78a36fd2df657eb5430986be4f1817ede14047: zlib compressed data
+================================
+File: ./.git/objects/10/5ce2da2d6447d11dfe32bfb846c3d5b199fc99
+This is a non-text file.
+./.git/objects/10/5ce2da2d6447d11dfe32bfb846c3d5b199fc99: zlib compressed data
+================================
+File: ./.git/objects/75/4129e08b8ed53c25edecfbfb3520e63fccd6d8
+This is a non-text file.
+./.git/objects/75/4129e08b8ed53c25edecfbfb3520e63fccd6d8: zlib compressed data
+================================
+File: ./.git/objects/6b/7c76e5411651ee043e33d2a517d077f3f335af
+This is a non-text file.
+./.git/objects/6b/7c76e5411651ee043e33d2a517d077f3f335af: zlib compressed data
+================================
+File: ./.git/objects/54/f657bb0972cd4d4bf69ad88524d3055b9da03b
+This is a non-text file.
+./.git/objects/54/f657bb0972cd4d4bf69ad88524d3055b9da03b: zlib compressed data
+================================
+File: ./.git/objects/53/d4c0f5f887745d533ff5893cac763f0666d507
+This is a non-text file.
+./.git/objects/53/d4c0f5f887745d533ff5893cac763f0666d507: zlib compressed data
+================================
+File: ./.git/objects/39/6f74a3114e7fcb82d443c033dde508ee3ca25a
+This is a non-text file.
+./.git/objects/39/6f74a3114e7fcb82d443c033dde508ee3ca25a: zlib compressed data
+================================
+File: ./.git/objects/bf/4863b7829c2a3b4a99abd8dfa69743deb05b2c
+This is a non-text file.
+./.git/objects/bf/4863b7829c2a3b4a99abd8dfa69743deb05b2c: zlib compressed data
+================================
+File: ./.git/objects/d4/9c2b30c610fe2b5705a09facff7926498e19fd
+This is a non-text file.
+./.git/objects/d4/9c2b30c610fe2b5705a09facff7926498e19fd: zlib compressed data
+================================
+File: ./.git/objects/b8/e8e1cf9dd570f83dd791262932a2df524a27f5
+This is a non-text file.
+./.git/objects/b8/e8e1cf9dd570f83dd791262932a2df524a27f5: zlib compressed data
+================================
+File: ./.git/objects/cc/67f427f669a0bb1e873e20dee0f65c3635e711
+This is a non-text file.
+./.git/objects/cc/67f427f669a0bb1e873e20dee0f65c3635e711: zlib compressed data
+================================
+File: ./.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+This is a non-text file.
+./.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391: zlib compressed data
+================================
+File: ./.git/objects/c2/46719550f1ca41dd154157110633e2dff9cdbd
+This is a non-text file.
+./.git/objects/c2/46719550f1ca41dd154157110633e2dff9cdbd: zlib compressed data
+================================
+File: ./.git/objects/e9/8a39bc8f6f070e23a14ef3ce770d0927f98b1f
+This is a non-text file.
+./.git/objects/e9/8a39bc8f6f070e23a14ef3ce770d0927f98b1f: zlib compressed data
+================================
+File: ./.git/objects/e0/559ca665ca2dbb11a67de37d62c322b12913b8
+This is a non-text file.
+./.git/objects/e0/559ca665ca2dbb11a67de37d62c322b12913b8: zlib compressed data
+================================
+File: ./.git/objects/2c/80e1269497d12e018fd6afa29982e56b0fb70d
+This is a non-text file.
+./.git/objects/2c/80e1269497d12e018fd6afa29982e56b0fb70d: zlib compressed data
+================================
+File: ./.git/objects/70/63ccf5b219fc4bcaedcc62fdbc453efb6dd80d
+This is a non-text file.
+./.git/objects/70/63ccf5b219fc4bcaedcc62fdbc453efb6dd80d: zlib compressed data
+================================
+File: ./.git/objects/12/358de1a695cf034c556728b1770f82496add21
+This is a non-text file.
+./.git/objects/12/358de1a695cf034c556728b1770f82496add21: zlib compressed data
+================================
+File: ./.git/objects/76/61fe47947778bbdc8786cef05be3a801372a0f
+This is a non-text file.
+./.git/objects/76/61fe47947778bbdc8786cef05be3a801372a0f: zlib compressed data
+================================
+File: ./.git/objects/13/566b81b018ad684f3a35fee301741b2734c8f4
+This is a non-text file.
+./.git/objects/13/566b81b018ad684f3a35fee301741b2734c8f4: zlib compressed data
+================================
+File: ./.git/objects/25/bfde04ab83841675ef262a21ebbe368dc5f9b3
+This is a non-text file.
+./.git/objects/25/bfde04ab83841675ef262a21ebbe368dc5f9b3: zlib compressed data
+================================
+File: ./.git/HEAD
+Full content:
+ref: refs/heads/master
+================================
+File: ./.git/info/exclude
+Full content:
+# git ls-files --others --exclude-from=.git/info/exclude
+# Lines that start with '#' are comments.
+# For a project mostly in C, the following would be a good set of
+# exclude patterns (uncomment them if you want to use them):
+# *.[oa]
+# *~
+================================
+File: ./.git/logs/HEAD
+Full content:
+0000000000000000000000000000000000000000 5f7480c804e26ca899ec209423c952d85c072a92 Felix Krückel <hi@felkru.com> 1723024793 +0200	commit (initial): initial commit
+5f7480c804e26ca899ec209423c952d85c072a92 322916f16c53e3623b8ef55e5f1b257dc9bac264 Felix Krückel <hi@felkru.com> 1723024803 +0200	commit: committed data
+================================
+File: ./.git/logs/refs/heads/master
+Full content:
+0000000000000000000000000000000000000000 5f7480c804e26ca899ec209423c952d85c072a92 Felix Krückel <hi@felkru.com> 1723024793 +0200	commit (initial): initial commit
+5f7480c804e26ca899ec209423c952d85c072a92 322916f16c53e3623b8ef55e5f1b257dc9bac264 Felix Krückel <hi@felkru.com> 1723024803 +0200	commit: committed data
+================================
+File: ./.git/description
+Full content:
+Unnamed repository; edit this file 'description' to name the repository.
+================================
+File: ./.git/hooks/commit-msg.sample
+Full content:
+#!/bin/sh
+#
+# An example hook script to check the commit log message.
+# Called by "git commit" with one argument, the name of the file
+# that has the commit message.  The hook should exit with non-zero
+# status after issuing an appropriate message if it wants to stop the
+# commit.  The hook is allowed to edit the commit message file.
+#
+# To enable this hook, rename this file to "commit-msg".
+
+# Uncomment the below to add a Signed-off-by line to the message.
+# Doing this in a hook is a bad idea in general, but the prepare-commit-msg
+# hook is more suited to it.
+#
+# SOB=$(git var GIT_AUTHOR_IDENT | sed -n 's/^\(.*>\).*$/Signed-off-by: \1/p')
+# grep -qs "^$SOB" "$1" || echo "$SOB" >> "$1"
+
+# This example catches duplicate Signed-off-by lines.
+
+test "" = "$(grep '^Signed-off-by: ' "$1" |
+	 sort | uniq -c | sed -e '/^[ 	]*1[ 	]/d')" || {
+	echo >&2 Duplicate Signed-off-by lines.
+	exit 1
+}
+================================
+File: ./.git/hooks/pre-rebase.sample
+Summary (first 1000 characters):
+#!/bin/sh
+#
+# Copyright (c) 2006, 2008 Junio C Hamano
+#
+# The "pre-rebase" hook is run just before "git rebase" starts doing
+# its job, and can prevent the command from running by exiting with
+# non-zero status.
+#
+# The hook is called with the following parameters:
+#
+# $1 -- the upstream the series was forked from.
+# $2 -- the branch being rebased (or empty when rebasing the current branch).
+#
+# This sample shows how to prevent topic branches that are already
+# merged to 'next' branch from getting rebased, because allowing it
+# would result in rebasing already published history.
+
+publish=next
+basebranch="$1"
+if test "$#" = 2
+then
+	topic="refs/heads/$2"
+else
+	topic=`git symbolic-ref HEAD` ||
+	exit 0 ;# we do not interrupt rebasing detached HEAD
+fi
+
+case "$topic" in
+refs/heads/??/*)
+	;;
+*)
+	exit 0 ;# we do not interrupt others.
+	;;
+esac
+
+# Now we are dealing with a topic branch being rebased
+# on top of master.  Is it OK to rebase it?
+
+# Does the topic really exist?
+git show-ref -q "$top...
+Summary (last 1000 characters):
+ from the
+    tip of "master".
+
+Let's look at this example:
+
+		   o---o---o---o---o---o---o---o---o---o "next"
+		  /       /           /           /
+		 /   a---a---b A     /           /
+		/   /               /           /
+	       /   /   c---c---c---c B         /
+	      /   /   /             \         /
+	     /   /   /   b---b C     \       /
+	    /   /   /   /             \     /
+    ---o---o---o---o---o---o---o---o---o---o---o "master"
+
+
+A, B and C are topic branches.
+
+ * A has one fix since it was merged up to "next".
+
+ * B has finished.  It has been fully merged up to "master" and "next",
+   and is ready to be deleted.
+
+ * C has not merged to "next" at all.
+
+We would want to allow C to be rebased, refuse A, and encourage
+B to be deleted.
+
+To compute (1):
+
+	git rev-list ^master ^topic next
+	git rev-list ^master        next
+
+	if these match, topic has not merged in next at all.
+
+To compute (2):
+
+	git rev-list master..topic
+
+	if this is empty, it is fully merged to "master".
+
+DOC_END
+================================
+File: ./.git/hooks/sendemail-validate.sample
+Summary (first 1000 characters):
+#!/bin/sh
+
+# An example hook script to validate a patch (and/or patch series) before
+# sending it via email.
+#
+# The hook should exit with non-zero status after issuing an appropriate
+# message if it wants to prevent the email(s) from being sent.
+#
+# To enable this hook, rename this file to "sendemail-validate".
+#
+# By default, it will only check that the patch(es) can be applied on top of
+# the default upstream branch without conflicts in a secondary worktree. After
+# validation (successful or not) of the last patch of a series, the worktree
+# will be deleted.
+#
+# The following config variables can be set to change the default remote and
+# remote ref that are used to apply the patches against:
+#
+#   sendemail.validateRemote (default: origin)
+#   sendemail.validateRemoteRef (default: HEAD)
+#
+# Replace the TODO placeholders with appropriate checks according to your
+# needs.
+
+validate_cover_letter () {
+	file="$1"
+	# TODO: Replace with appropriate checks (e.g. spell checking).
+	true
+}
+
+va...
+Summary (last 1000 characters):
+ing style checks, etc.).
+	true
+}
+
+# main -------------------------------------------------------------------------
+
+if test "$GIT_SENDEMAIL_FILE_COUNTER" = 1
+then
+	remote=$(git config --default origin --get sendemail.validateRemote) &&
+	ref=$(git config --default HEAD --get sendemail.validateRemoteRef) &&
+	worktree=$(mktemp --tmpdir -d sendemail-validate.XXXXXXX) &&
+	git worktree add -fd --checkout "$worktree" "refs/remotes/$remote/$ref" &&
+	git config --replace-all sendemail.validateWorktree "$worktree"
+else
+	worktree=$(git config --get sendemail.validateWorktree)
+fi || {
+	echo "sendemail-validate: error: failed to prepare worktree" >&2
+	exit 1
+}
+
+unset GIT_DIR GIT_WORK_TREE
+cd "$worktree" &&
+
+if grep -q "^diff --git " "$1"
+then
+	validate_patch "$1"
+else
+	validate_cover_letter "$1"
+fi &&
+
+if test "$GIT_SENDEMAIL_FILE_COUNTER" = "$GIT_SENDEMAIL_FILE_TOTAL"
+then
+	git config --unset-all sendemail.validateWorktree &&
+	trap 'git worktree remove -ff "$worktree"' EXIT &&
+	validate_series
+fi
+================================
+File: ./.git/hooks/pre-commit.sample
+Summary (first 1000 characters):
+#!/bin/sh
+#
+# An example hook script to verify what is about to be committed.
+# Called by "git commit" with no arguments.  The hook should
+# exit with non-zero status after issuing an appropriate message if
+# it wants to stop the commit.
+#
+# To enable this hook, rename this file to "pre-commit".
+
+if git rev-parse --verify HEAD >/dev/null 2>&1
+then
+	against=HEAD
+else
+	# Initial commit: diff against an empty tree object
+	against=$(git hash-object -t tree /dev/null)
+fi
+
+# If you want to allow non-ASCII filenames set this variable to true.
+allownonascii=$(git config --type=bool hooks.allownonascii)
+
+# Redirect output to stderr.
+exec 1>&2
+
+# Cross platform projects tend to avoid non-ASCII filenames; prevent
+# them from being added to the repository. We exploit the fact that the
+# printable range starts at the space character and ends with tilde.
+if [ "$allownonascii" != "true" ] &&
+	# Note that the use of brackets around a tr range is ok here, (it's
+	# even required, for portability to Sola...
+Summary (last 1000 characters):
+s platform projects tend to avoid non-ASCII filenames; prevent
+# them from being added to the repository. We exploit the fact that the
+# printable range starts at the space character and ends with tilde.
+if [ "$allownonascii" != "true" ] &&
+	# Note that the use of brackets around a tr range is ok here, (it's
+	# even required, for portability to Solaris 10's /usr/bin/tr), since
+	# the square bracket bytes happen to fall in the designated range.
+	test $(git diff-index --cached --name-only --diff-filter=A -z $against |
+	  LC_ALL=C tr -d '[ -~]\0' | wc -c) != 0
+then
+	cat <<\EOF
+Error: Attempt to add a non-ASCII file name.
+
+This can cause problems if you want to work with people on other platforms.
+
+To be portable it is advisable to rename the file.
+
+If you know what you are doing you can disable this check using:
+
+  git config hooks.allownonascii true
+EOF
+	exit 1
+fi
+
+# If there are whitespace errors, print the offending file names and fail.
+exec git diff-index --check --cached $against --
+================================
+File: ./.git/hooks/applypatch-msg.sample
+Full content:
+#!/bin/sh
+#
+# An example hook script to check the commit log message taken by
+# applypatch from an e-mail message.
+#
+# The hook should exit with non-zero status after issuing an
+# appropriate message if it wants to stop the commit.  The hook is
+# allowed to edit the commit message file.
+#
+# To enable this hook, rename this file to "applypatch-msg".
+
+. git-sh-setup
+commitmsg="$(git rev-parse --git-path hooks/commit-msg)"
+test -x "$commitmsg" && exec "$commitmsg" ${1+"$@"}
+:
+================================
+File: ./.git/hooks/fsmonitor-watchman.sample
+Summary (first 1000 characters):
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+use IPC::Open2;
+
+# An example hook script to integrate Watchman
+# (https://facebook.github.io/watchman/) with git to speed up detecting
+# new and modified files.
+#
+# The hook is passed a version (currently 2) and last update token
+# formatted as a string and outputs to stdout a new update token and
+# all files that have been modified since the update token. Paths must
+# be relative to the root of the working tree and separated by a single NUL.
+#
+# To enable this hook, rename this file to "query-watchman" and set
+# 'git config core.fsmonitor .git/hooks/query-watchman'
+#
+my ($version, $last_update_token) = @ARGV;
+
+# Uncomment for debugging
+# print STDERR "$0 $version $last_update_token\n";
+
+# Check the hook interface version
+if ($version ne 2) {
+	die "Unsupported query-fsmonitor hook version '$version'.\n" .
+	    "Falling back to scanning...\n";
+}
+
+my $git_work_tree = get_working_dir();
+
+my $retry = 1;
+
+my $json_pkg;
+eval {
+	require JSON::XS;
+	$...
+Summary (last 1000 characters):
+die "Watchman: $error.\n" .
+		"Falling back to scanning...\n" if $error;
+
+		# Uncomment for debugging watchman output
+		# open (my $fh, ">", ".git/watchman-output.out");
+		# close $fh;
+
+		# Watchman will always return all files on the first query so
+		# return the fast "everything is dirty" flag to git and do the
+		# Watchman query just to get it over with now so we won't pay
+		# the cost in git to look up each individual file.
+		my $o = watchman_clock();
+		$error = $output->{error};
+
+		die "Watchman: $error.\n" .
+		"Falling back to scanning...\n" if $error;
+
+		output_result($o->{clock}, ("/"));
+		$last_update_token = $o->{clock};
+
+		eval { launch_watchman() };
+		return 0;
+	}
+
+	die "Watchman: $error.\n" .
+	"Falling back to scanning...\n" if $error;
+
+	return 1;
+}
+
+sub get_working_dir {
+	my $working_dir;
+	if ($^O =~ 'msys' || $^O =~ 'cygwin') {
+		$working_dir = Win32::GetCwd();
+		$working_dir =~ tr/\\/\//;
+	} else {
+		require Cwd;
+		$working_dir = Cwd::cwd();
+	}
+
+	return $working_dir;
+}
+================================
+File: ./.git/hooks/pre-receive.sample
+Full content:
+#!/bin/sh
+#
+# An example hook script to make use of push options.
+# The example simply echoes all push options that start with 'echoback='
+# and rejects all pushes when the "reject" push option is used.
+#
+# To enable this hook, rename this file to "pre-receive".
+
+if test -n "$GIT_PUSH_OPTION_COUNT"
+then
+	i=0
+	while test "$i" -lt "$GIT_PUSH_OPTION_COUNT"
+	do
+		eval "value=\$GIT_PUSH_OPTION_$i"
+		case "$value" in
+		echoback=*)
+			echo "echo from the pre-receive-hook: ${value#*=}" >&2
+			;;
+		reject)
+			exit 1
+		esac
+		i=$((i + 1))
+	done
+fi
+================================
+File: ./.git/hooks/prepare-commit-msg.sample
+Summary (first 1000 characters):
+#!/bin/sh
+#
+# An example hook script to prepare the commit log message.
+# Called by "git commit" with the name of the file that has the
+# commit message, followed by the description of the commit
+# message's source.  The hook's purpose is to edit the commit
+# message file.  If the hook fails with a non-zero status,
+# the commit is aborted.
+#
+# To enable this hook, rename this file to "prepare-commit-msg".
+
+# This hook includes three examples. The first one removes the
+# "# Please enter the commit message..." help message.
+#
+# The second includes the output of "git diff --name-status -r"
+# into the message, just before the "git status" output.  It is
+# commented because it doesn't cope with --amend or with squashed
+# commits.
+#
+# The third example adds a Signed-off-by line to the message, that can
+# still be edited.  This is rarely a good idea.
+
+COMMIT_MSG_FILE=$1
+COMMIT_SOURCE=$2
+SHA1=$3
+
+/usr/bin/perl -i.bak -ne 'print unless(m/^. Please enter the commit message/..m/^#$/)' "$COMMIT_MS...
+Summary (last 1000 characters):
+he commit message..." help message.
+#
+# The second includes the output of "git diff --name-status -r"
+# into the message, just before the "git status" output.  It is
+# commented because it doesn't cope with --amend or with squashed
+# commits.
+#
+# The third example adds a Signed-off-by line to the message, that can
+# still be edited.  This is rarely a good idea.
+
+COMMIT_MSG_FILE=$1
+COMMIT_SOURCE=$2
+SHA1=$3
+
+/usr/bin/perl -i.bak -ne 'print unless(m/^. Please enter the commit message/..m/^#$/)' "$COMMIT_MSG_FILE"
+
+# case "$COMMIT_SOURCE,$SHA1" in
+#  ,|template,)
+#    /usr/bin/perl -i.bak -pe '
+#       print "\n" . `git diff --cached --name-status -r`
+# 	 if /^#/ && $first++ == 0' "$COMMIT_MSG_FILE" ;;
+#  *) ;;
+# esac
+
+# SOB=$(git var GIT_COMMITTER_IDENT | sed -n 's/^\(.*>\).*$/Signed-off-by: \1/p')
+# git interpret-trailers --in-place --trailer "$SOB" "$COMMIT_MSG_FILE"
+# if test -z "$COMMIT_SOURCE"
+# then
+#   /usr/bin/perl -i.bak -pe 'print "\n" if !$first_line++' "$COMMIT_MSG_FILE"
+# fi
+================================
+File: ./.git/hooks/post-update.sample
+Full content:
+#!/bin/sh
+#
+# An example hook script to prepare a packed repository for use over
+# dumb transports.
+#
+# To enable this hook, rename this file to "post-update".
+
+exec git update-server-info
+================================
+File: ./.git/hooks/pre-merge-commit.sample
+Full content:
+#!/bin/sh
+#
+# An example hook script to verify what is about to be committed.
+# Called by "git merge" with no arguments.  The hook should
+# exit with non-zero status after issuing an appropriate message to
+# stderr if it wants to stop the merge commit.
+#
+# To enable this hook, rename this file to "pre-merge-commit".
+
+. git-sh-setup
+test -x "$GIT_DIR/hooks/pre-commit" &&
+        exec "$GIT_DIR/hooks/pre-commit"
+:
+================================
+File: ./.git/hooks/pre-applypatch.sample
+Full content:
+#!/bin/sh
+#
+# An example hook script to verify what is about to be committed
+# by applypatch from an e-mail message.
+#
+# The hook should exit with non-zero status after issuing an
+# appropriate message if it wants to stop the commit.
+#
+# To enable this hook, rename this file to "pre-applypatch".
+
+. git-sh-setup
+precommit="$(git rev-parse --git-path hooks/pre-commit)"
+test -x "$precommit" && exec "$precommit" ${1+"$@"}
+:
+================================
+File: ./.git/hooks/pre-push.sample
+Summary (first 1000 characters):
+#!/bin/sh
+
+# An example hook script to verify what is about to be pushed.  Called by "git
+# push" after it has checked the remote status, but before anything has been
+# pushed.  If this script exits with a non-zero status nothing will be pushed.
+#
+# This hook is called with the following parameters:
+#
+# $1 -- Name of the remote to which the push is being done
+# $2 -- URL to which the push is being done
+#
+# If pushing without using a named remote those arguments will be equal.
+#
+# Information about the commits which are being pushed is supplied as lines to
+# the standard input in the form:
+#
+#   <local ref> <local oid> <remote ref> <remote oid>
+#
+# This sample shows how to prevent push of commits where the log message starts
+# with "WIP" (work in progress).
+
+remote="$1"
+url="$2"
+
+zero=$(git hash-object --stdin </dev/null | tr '[0-9a-f]' '0')
+
+while read local_ref local_oid remote_ref remote_oid
+do
+	if test "$local_oid" = "$zero"
+	then
+		# Handle delete
+		:
+	else
+		if test "$remote_oid" ...
+Summary (last 1000 characters):
+to which the push is being done
+#
+# If pushing without using a named remote those arguments will be equal.
+#
+# Information about the commits which are being pushed is supplied as lines to
+# the standard input in the form:
+#
+#   <local ref> <local oid> <remote ref> <remote oid>
+#
+# This sample shows how to prevent push of commits where the log message starts
+# with "WIP" (work in progress).
+
+remote="$1"
+url="$2"
+
+zero=$(git hash-object --stdin </dev/null | tr '[0-9a-f]' '0')
+
+while read local_ref local_oid remote_ref remote_oid
+do
+	if test "$local_oid" = "$zero"
+	then
+		# Handle delete
+		:
+	else
+		if test "$remote_oid" = "$zero"
+		then
+			# New branch, examine all commits
+			range="$local_oid"
+		else
+			# Update to existing branch, examine new commits
+			range="$remote_oid..$local_oid"
+		fi
+
+		# Check for WIP commit
+		commit=$(git rev-list -n 1 --grep '^WIP' "$range")
+		if test -n "$commit"
+		then
+			echo >&2 "Found WIP commit in $local_ref, not pushing"
+			exit 1
+		fi
+	fi
+done
+
+exit 0
+================================
+File: ./.git/hooks/update.sample
+Summary (first 1000 characters):
+#!/bin/sh
+#
+# An example hook script to block unannotated tags from entering.
+# Called by "git receive-pack" with arguments: refname sha1-old sha1-new
+#
+# To enable this hook, rename this file to "update".
+#
+# Config
+# ------
+# hooks.allowunannotated
+#   This boolean sets whether unannotated tags will be allowed into the
+#   repository.  By default they won't be.
+# hooks.allowdeletetag
+#   This boolean sets whether deleting tags will be allowed in the
+#   repository.  By default they won't be.
+# hooks.allowmodifytag
+#   This boolean sets whether a tag may be modified after creation. By default
+#   it won't be.
+# hooks.allowdeletebranch
+#   This boolean sets whether deleting branches will be allowed in the
+#   repository.  By default they won't be.
+# hooks.denycreatebranch
+#   This boolean sets whether remotely creating branches will be denied
+#   in the repository.  By default this is allowed.
+#
+
+# --- Command line
+refname="$1"
+oldrev="$2"
+newrev="$3"
+
+# --- Safety check
+if [ -z "$GIT_...
+Summary (last 1000 characters):
+difytag" != "true" ] && git rev-parse $refname > /dev/null 2>&1
+		then
+			echo "*** Tag '$refname' already exists." >&2
+			echo "*** Modifying a tag is not allowed in this repository." >&2
+			exit 1
+		fi
+		;;
+	refs/heads/*,commit)
+		# branch
+		if [ "$oldrev" = "$zero" -a "$denycreatebranch" = "true" ]; then
+			echo "*** Creating a branch is not allowed in this repository" >&2
+			exit 1
+		fi
+		;;
+	refs/heads/*,delete)
+		# delete branch
+		if [ "$allowdeletebranch" != "true" ]; then
+			echo "*** Deleting a branch is not allowed in this repository" >&2
+			exit 1
+		fi
+		;;
+	refs/remotes/*,commit)
+		# tracking branch
+		;;
+	refs/remotes/*,delete)
+		# delete tracking branch
+		if [ "$allowdeletebranch" != "true" ]; then
+			echo "*** Deleting a tracking branch is not allowed in this repository" >&2
+			exit 1
+		fi
+		;;
+	*)
+		# Anything else (is there anything else?)
+		echo "*** Update hook: unknown type of update to ref $refname of type $newrev_type" >&2
+		exit 1
+		;;
+esac
+
+# --- Finished
+exit 0
+================================
+File: ./.git/hooks/push-to-checkout.sample
+Summary (first 1000 characters):
+#!/bin/sh
+
+# An example hook script to update a checked-out tree on a git push.
+#
+# This hook is invoked by git-receive-pack(1) when it reacts to git
+# push and updates reference(s) in its repository, and when the push
+# tries to update the branch that is currently checked out and the
+# receive.denyCurrentBranch configuration variable is set to
+# updateInstead.
+#
+# By default, such a push is refused if the working tree and the index
+# of the remote repository has any difference from the currently
+# checked out commit; when both the working tree and the index match
+# the current commit, they are updated to match the newly pushed tip
+# of the branch. This hook is to be used to override the default
+# behaviour; however the code below reimplements the default behaviour
+# as a starting point for convenient modification.
+#
+# The hook receives the commit with which the tip of the current
+# branch is going to be updated:
+commit=$1
+
+# It can exit with a non-zero status to refuse the push (when ...
+Summary (last 1000 characters):
+for the default behaviour for git's push-to-checkout hook defined in
+# the push_to_deploy() function in builtin/receive-pack.c.
+#
+# Note that the hook will be executed from the repository directory,
+# not from the working tree, so if you want to perform operations on
+# the working tree, you will have to adapt your code accordingly, e.g.
+# by adding "cd .." or using relative paths.
+
+if ! git update-index -q --ignore-submodules --refresh
+then
+	die "Up-to-date check failed"
+fi
+
+if ! git diff-files --quiet --ignore-submodules --
+then
+	die "Working directory has unstaged changes"
+fi
+
+# This is a rough translation of:
+#
+#   head_has_history() ? "HEAD" : EMPTY_TREE_SHA1_HEX
+if git cat-file -e HEAD 2>/dev/null
+then
+	head=HEAD
+else
+	head=$(git hash-object -t tree --stdin </dev/null)
+fi
+
+if ! git diff-index --quiet --cached --ignore-submodules $head --
+then
+	die "Working directory has staged changes"
+fi
+
+if ! git read-tree -u -m "$commit"
+then
+	die "Could not update working tree to new HEAD"
+fi
+================================
+File: ./.git/refs/heads/master
+Full content:
+322916f16c53e3623b8ef55e5f1b257dc9bac264
+================================
+File: ./.git/index
+This is a non-text file.
+./.git/index: Git index, version 2, 22 entries
+================================
+File: ./.git/COMMIT_EDITMSG
+Full content:
+committed data
+================================
+File: ./data/RWTH Aachen University.csv
+Summary (first 1000 characters):
+,Researcher,H-index,Citations,Publications,University Name,Country
+0,Wil M. P. van der Aalst,172,135277,1337,RWTH Aachen University,                    Germany                
+1,Hermann Ney,112,61670,985,RWTH Aachen University,                    Germany                
+2,Stefan Decker,78,24886,397,RWTH Aachen University,                    Germany                
+3,Bastian Leibe,76,28761,215,RWTH Aachen University,                    Germany                
+4,Leif Kobbelt,76,23242,329,RWTH Aachen University,                    Germany                
+5,Joost-Pieter Katoen,71,25767,472,RWTH Aachen University,                    Germany                
+6,Gerhard J. Woeginger,71,17490,499,RWTH Aachen University,                    Germany                
+7,Matthias Jarke,69,21481,623,RWTH Aachen University,                    Germany                
+8,Heinrich Meyr,61,17942,397,RWTH Aachen University,                    Germany                
+9,Bernhard Rumpe,59,14927,621,RWTH Aachen Un...
+Summary (last 1000 characters):
+              Germany                
+19,Jürgen Giesl,41,5850,167,RWTH Aachen University,                    Germany                
+20,Wolfgang Thomas,40,12337,172,RWTH Aachen University,                    Germany                
+21,Jan Borchers,38,7507,316,RWTH Aachen University,                    Germany                
+22,Erich Grädel,37,9297,174,RWTH Aachen University,                    Germany                
+23,Peter Rossmanith,37,4516,147,RWTH Aachen University,                    Germany                
+24,Til Aach,36,5988,277,RWTH Aachen University,                    Germany                
+25,Gerd Ascheid,36,5943,489,RWTH Aachen University,                    Germany                
+26,Janne Riihijarvi,36,5288,207,RWTH Aachen University,                    Germany                
+27,Rudolf Mathar,34,5797,448,RWTH Aachen University,                    Germany                
+28,Haris Gacanin,32,4573,281,RWTH Aachen University,                    Germany                
+================================
+File: ./data/MIT.csv
+Summary (first 1000 characters):
+,Researcher,H-index,Citations,Publications,University Name,Country
+0,Alex Pentland,144,131625,762,MIT,                    United States                
+1,Tomaso Poggio,141,113834,593,MIT,                    United States                
+2,Antonio Torralba,133,106068,390,MIT,                    United States                
+3,Hari Balakrishnan,129,146077,308,MIT,                    United States                
+4,William T. Freeman,128,92649,390,MIT,                    United States                
+5,Daniela Rus,124,56630,844,MIT,                    United States                
+6,Joshua B. Tenenbaum,118,83428,629,MIT,                    United States                
+7,Rosalind W. Picard,115,68161,429,MIT,                    United States                
+8,Martin J. Wainwright,109,57433,337,MIT,                    United States                
+9,Michael Stonebraker,106,49497,457,MIT,                    United States                
+10,Alan S. Willsky,105,51527,626,MIT,                  ...
+Summary (last 1000 characters):
+8,MIT,                    United States                
+137,Lalana Kagal,36,8911,155,MIT,                    United States                
+138,Yury Polyanskiy,36,7861,167,MIT,                    United States                
+139,Ruth Rosenholtz,36,7409,136,MIT,                    United States                
+140,Justin Solomon,35,7718,147,MIT,                    United States                
+141,Aditya Khosla,34,89389,53,MIT,                    United States                
+142,Dimitris G. Manolakis,34,23807,180,MIT,                    United States                
+143,Joseph P. Campbell,33,4896,72,MIT,                    United States                
+144,Mohsen Ghaffari,33,3631,136,MIT,                    United States                
+145,Daniel Gruhl,32,15790,139,MIT,                    United States                
+146,Daniel Sanchez,32,4757,88,MIT,                    United States                
+147,Allen M. Waxman,32,4214,94,MIT,                    United States                
+================================
+File: ./data/University of Oxford.csv
+Summary (first 1000 characters):
+,Researcher,H-index,Citations,Publications,University Name,Country
+0,Andrew Zisserman,188,282705,782,University of Oxford,                    United Kingdom                
+1,Philip H. S. Torr,122,76631,576,University of Oxford,                    United Kingdom                
+2,Ian Horrocks,101,57930,468,University of Oxford,                    United Kingdom                
+3,Michael Wooldridge,100,76789,571,University of Oxford,                    United Kingdom                
+4,Andrea Vedaldi,92,77901,292,University of Oxford,                    United Kingdom                
+5,Georg Gottlob,84,28802,465,University of Oxford,                    United Kingdom                
+6,Nigel Shadbolt,81,30287,633,University of Oxford,                    United Kingdom                
+7,Luca Cardelli,80,34263,244,University of Oxford,                    United Kingdom                
+8,Michael M. Bronstein,78,27333,344,University of Oxford,                    United Kingdom                ...
+Summary (last 1000 characters):
+,11656,178,University of Oxford,                    United Kingdom                
+43,Oege de Moor,38,6759,92,University of Oxford,                    United Kingdom                
+44,Michael Benedikt,37,6286,193,University of Oxford,                    United Kingdom                
+45,Ingmar Posner,37,5484,133,University of Oxford,                    United Kingdom                
+46,Ivan Martinovic,35,6323,220,University of Oxford,                    United Kingdom                
+47,Chris Russell,34,7216,82,University of Oxford,                    United Kingdom                
+48,Elias Koutsoupias,33,9008,104,University of Oxford,                    United Kingdom                
+49,Edith Elkind,33,3036,116,University of Oxford,                    United Kingdom                
+50,Konstantinos Kamnitsas,32,9393,66,University of Oxford,                    United Kingdom                
+51,John Fox,30,4136,112,University of Oxford,                    United Kingdom                
+================================
+File: ./data/ETH Zurich.csv
+Summary (first 1000 characters):
+,Researcher,H-index,Citations,Publications,University Name,Country
+0,Luc Van Gool,168,176257,1558,ETH Zurich,                    Switzerland                
+1,Luca Benini,124,62976,1599,ETH Zurich,                    Switzerland                
+2,Onur Mutlu,116,46340,587,ETH Zurich,                    Switzerland                
+3,Marc Pollefeys,112,48682,639,ETH Zurich,                    Switzerland                
+4,Markus Gross,109,43414,587,ETH Zurich,                    Switzerland                
+5,Adrian Perrig,100,78898,415,ETH Zurich,                    Switzerland                
+6,Roger Wattenhofer,92,34991,611,ETH Zurich,                    Switzerland                
+7,Lothar Thiele,90,71015,639,ETH Zurich,                    Switzerland                
+8,Andreas Krause,89,36083,345,ETH Zurich,                    Switzerland                
+9,Emilio Frazzoli,84,31381,452,ETH Zurich,                    Switzerland                
+10,Gustavo Alonso,80,24187,426,ETH Zurich, ...
+Summary (last 1000 characters):
+                
+58,Paul Furgale,37,6779,71,ETH Zurich,                    Switzerland                
+59,Cesar Cadena,36,9234,127,ETH Zurich,                    Switzerland                
+60,Michael Bosse,36,7771,65,ETH Zurich,                    Switzerland                
+61,Robert W. Sumner,36,6721,154,ETH Zurich,                    Switzerland                
+62,Fernando Perez-Cruz,36,5848,164,ETH Zurich,                    Switzerland                
+63,Peter Müller,36,5767,189,ETH Zurich,                    Switzerland                
+64,Angelika Steger,35,4809,165,ETH Zurich,                    Switzerland                
+65,Ryan Cotterell,35,4096,154,ETH Zurich,                    Switzerland                
+66,Aurelien Lucchi,34,12747,103,ETH Zurich,                    Switzerland                
+67,Guillaume Obozinski,34,8662,75,ETH Zurich,                    Switzerland                
+68,David Steurer,34,4692,75,ETH Zurich,                    Switzerland                
+================================
+File: ./tree_and_summary.txt
+Summary (first 1000 characters):
+.
+├── ./analyze-data.ipynb
+├── ./d-index-per-scholar
+│   ├── ./d-index-per-scholar/100-200.txt
+│   ├── ./d-index-per-scholar/100.txt
+│   ├── ./d-index-per-scholar/cs100.txt
+│   └── ./d-index-per-scholar/d-index-per-scholar.ipynb
+├── ./data
+│   ├── ./data/ETH Zurich.csv
+│   ├── ./data/MIT.csv
+│   ├── ./data/RWTH Aachen University.csv
+│   └── ./data/University of Oxford.csv
+├── ./html
+│   ├── ./html/eth_top.txt
+│   ├── ./html/mit-1-100.txt
+│   ├── ./html/mit-101-148.txt
+│   ├── ./html/oxford_top.txt
+│   └── ./html/rwth_top_scientists.txt
+├── ./scrape-csv.ipynb
+├── ./tree_and_summary.txt
+└── ./university_h_index_comparison.html
+
+4 directories, 17 files
+================================
+File: ./.DS_Store
+This is a non-text file.
+./.DS_Store: Apple Desktop Services Store
+================================
+File: ./d-index-per...
+Summary (last 1000 characters):
+── ./d-index-per-scholar
+│   ├── ./d-index-per-scholar/100-200.txt
+│   ├── ./d-index-per-scholar/100.txt
+│   ├── ./d-index-per-scholar/cs100.txt
+│   └── ./d-index-per-scholar/d-index-per-scholar.ipynb
+├── ./data
+│   ├── ./data/ETH Zurich.csv
+│   ├── ./data/MIT.csv
+│   ├── ./data/RWTH Aachen University.csv
+│   └── ./data/University of Oxford.csv
+├── ./html
+│   ├── ./html/eth_top.txt
+│   ├── ./html/mit-1-100.txt
+│   ├── ./html/mit-101-148.txt
+│   ├── ./html/oxford_top.txt
+│   └── ./html/rwth_top_scientists.txt
+├── ./scrape-csv.ipynb
+├── ./tree_and_summary.txt
+└── ./university_h_index_comparison.html
+
+4 directories, 17 files
+================================
+File: ./.DS_Store
+This is a non-text file.
+./.DS_Store: Apple Desktop Services Store
+================================
+File: ./d-index-per...
+Summary (last 1000 characters):
+================================
+File: ./.idea/inspectionProfiles/profiles_settings.xml
+Full content:
+<component name="InspectionProjectProfileManager">
+  <settings>
+    <option name="USE_PROJECT_PROFILE" value="false" />
+    <version value="1.0" />
+  </settings>
+</component>================================
+File: ./.idea/inspectionProfiles/Project_Default.xml
+Full content:
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="pydot.core.Dot.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>================================
+File: ./.idea/vcs.xml
+Full content:
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+</project>================================
+File: ./.idea/.gitignore
+Full content:
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+================================
+File: ./.idea/workspace.xml
+Summary (first 1000 characters):
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69236e4e-c7d3-476f-b5d1-5f016403daa2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/analyze-data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analyze-data.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATH...
+Summary (last 1000 characters):
+losed" value="true" />
+      <created>1723024793625</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723024793625</updated>
+    </task>
+    <task id="LOCAL-00002" summary="committed data">
+      <option name="closed" value="true" />
+      <created>1723024803784</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723024803784</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="committed data" />
+    <option name="LAST_COMMIT_MESSAGE" value="committed data" />
+  </component>
+</project>================================
+File: ./.idea/UniversityRankingsRethought.iml
+Full content:
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.12 (default_venv)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>================================
+File: ./.idea/modules.xml
+Full content:
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/UniversityRankingsRethought.iml" filepath="$PROJECT_DIR$/.idea/UniversityRankingsRethought.iml" />
+    </modules>
+  </component>
+</project>================================
+File: ./.idea/misc.xml
+Full content:
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.11 (UniversityRankingsRethought)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (default_venv)" project-jdk-type="Python SDK" />
+</project>================================
+Please ask if you need any additional information about any of the files.
